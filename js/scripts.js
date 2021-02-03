@@ -80,7 +80,7 @@ function loadScene(){
 
 	var objLoader = new THREE.OBJLoader();
 	
-	objLoader.load("https://srv-store6.gofile.io/download/WKMn6u/collision.obj", function(object){
+	objLoader.load("Resources/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
 		object.position.set(0,0,0);
 		scene.add(object);
