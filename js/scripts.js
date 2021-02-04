@@ -73,9 +73,9 @@ function clearScene(){
 	scene.children = [];
 
 	//Add Lighting back
-	var keyLight = new THREE.DirectionalLight(new THREE.Color('hsl(30, 100%, 75%)'), 1.0);
+	var keyLight = new THREE.DirectionalLight(new THREE.Color("rgb(250,250,250)"), 1.0);
 	keyLight.position.set(-100, 0, 100).normalize();
-	var fillLight = new THREE.DirectionalLight(new THREE.Color('hsl(240, 100%, 75%)'), 0.75);
+	var fillLight = new THREE.DirectionalLight(new THREE.Color("rgb(250,250,250)"), 0.75);
 	fillLight.position.set(100, 1000, 100).normalize();
 	var backLight = new THREE.DirectionalLight(0xffffff, 1.0);
 	backLight.position.set(100, 0, -100).normalize();
