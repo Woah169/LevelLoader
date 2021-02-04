@@ -80,7 +80,7 @@ function loadScene(){
 
 	var objLoader = new THREE.OBJLoader();
 	
-	objLoader.load("/Resources/collision.obj", function(object){
+	objLoader.load("https://raw.githubusercontent.com/Woah169/LevelLoader/master/Resources/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
 		object.position.set(0,0,0);
 		scene.add(object);
