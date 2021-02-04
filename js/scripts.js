@@ -58,7 +58,7 @@ function loadScene(LevelID){
 
 	var objLoader = new THREE.OBJLoader();
 	
-	objLoader.load('stage/' + "aqa/a" + "/collision.obj", function(object){
+	objLoader.load('stage/' + LevelID + "/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
 		object.position.set(0,0,0);
 		scene.add(object);
