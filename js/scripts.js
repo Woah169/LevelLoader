@@ -51,6 +51,8 @@ function processKeys(){
 //Load Collision
 function loadScene(LevelID){
 
+	clearScene();
+
 	var geometry = new THREE.BoxGeometry( 1, 1, 1 );
 	var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 	var cube = new THREE.Mesh( geometry, material );
@@ -82,6 +84,7 @@ function clearScene(){
 	scene.add(backLight);
 }
 
+clearScene()
 
 var animate = function () {
 	requestAnimationFrame( animate );
