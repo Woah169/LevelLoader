@@ -8,7 +8,7 @@ document.getElementById("CV").appendChild( renderer.domElement );
 
 camera.position.z = 5;
 
-//Load Placement Items
+
 
 
 //Camera Controls
@@ -107,7 +107,21 @@ function loadScene(LevelID){
 }
 
 
-//Clear Collision
+parser = new DOMParser();
+
+//Load Placement
+function loadPlacement(PlacementID){
+	xmlDoc = parser.parserFromString("placement/"+PlacementID, "text/xml");
+	
+	var b = xmlDoc.childNodes;
+
+	for(i = 0; i < b.length; i++){
+		console.log(b[i].nodeValue);
+	}
+
+}
+
+//Clear 
 function clearScene(){
 	scene.children = [];
 
