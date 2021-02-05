@@ -79,12 +79,12 @@ function loadScene(LevelID){
 			
 			let li = document.createElement('button');
 			li.className = "colButton";
-			li.onclick = function() {toggleVisability(groupMesh.name)};
+			li.innerHTML += groupMesh.name;
+			li.onclick = function() {toggleVisability(li.innerHTML)};
 			colList.appendChild(li);
 
 			
 
-			li.innerHTML += groupMesh.name;
 
 			
 		}
