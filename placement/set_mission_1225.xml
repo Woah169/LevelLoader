@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="player_start" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7198.65</x>
+          <y>-294.71</y>
+          <z>20103.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.99997</y>
+          <z>-0</z>
+          <w>0.007733</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2851.17</x>
+          <y>33.0186</y>
+          <z>-15637.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2851.17</x>
+          <y>33.0186</y>
+          <z>-15429.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>3064.47</x>
+          <y>33.0186</y>
+          <z>-15429.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>3064.47</x>
+          <y>33.0186</y>
+          <z>-15637.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>3064.47</x>
+          <y>33.0186</y>
+          <z>-15215.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2851.17</x>
+          <y>33.0186</y>
+          <z>-15215.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-6561.45</x>
+        <y>-99.5586</y>
+        <z>10425</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7882.33</x>
+          <y>-99.5586</y>
+          <z>15955.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-10029</x>
+        <y>-99.5586</y>
+        <z>6357.91</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-6561.45</x>
+          <y>-99.5586</y>
+          <z>10425</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-7163.76</x>
+        <y>1173.69</y>
+        <z>2067.5</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-10029</x>
+          <y>-99.5586</y>
+          <z>6357.91</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-7163.76</x>
+        <y>1173.69</y>
+        <z>594.343</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7163.76</x>
+          <y>1173.69</y>
+          <z>2067.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-13779.6</x>
+        <y>-99.5586</y>
+        <z>-4771.42</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7944.63</x>
+          <y>-99.5586</y>
+          <z>-2933.98</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-11275.7</x>
+        <y>-352.935</y>
+        <z>-8238.08</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-13779.6</x>
+          <y>-99.5586</y>
+          <z>-4771.42</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-6753.87</x>
+        <y>1782.99</y>
+        <z>-12532.7</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7810.48</x>
+          <y>1782.99</y>
+          <z>-10933.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>1235.91</x>
+          <y>-99.5586</y>
+          <z>-14304.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-7944.63</x>
+        <y>-99.5586</y>
+        <z>-2933.98</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7163.76</x>
+          <y>1173.69</y>
+          <z>594.343</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-4974.47</x>
+        <y>1782.99</y>
+        <z>-12742.6</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-6753.87</x>
+          <y>1782.99</y>
+          <z>-12532.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>1235.91</x>
+        <y>-99.5586</y>
+        <z>-14304.5</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-4974.47</x>
+          <y>1782.99</y>
+          <z>-12742.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_warphole" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>-7810.48</x>
+        <y>1782.99</y>
+        <z>-10933.1</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-11275.7</x>
+          <y>-352.935</y>
+          <z>-8238.08</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

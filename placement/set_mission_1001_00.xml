@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">28</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">msg_m1001_001</Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2697.8</x>
+          <y>205.596</y>
+          <z>-15642.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">sonic_new</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2697.71</x>
+          <y>204.951</y>
+          <z>-15587.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>1</y>
+          <z>-0</z>
+          <w>-0</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_goal" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Vector3">
+        <x>2759.96</x>
+        <y>240.147</y>
+        <z>-14705.9</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>2955.9</x>
+        <y>266.16</y>
+        <z>-14956.2</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2979.74</x>
+          <y>200.511</y>
+          <z>-14940.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.300706</y>
+          <z>0</z>
+          <w>0.953717</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

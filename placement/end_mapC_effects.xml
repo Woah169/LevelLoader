@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="particle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">map_end</Parameter>
+      <Parameter type="String">thunder_01</Parameter>
+      <Parameter type="Single">4</Parameter>
+      <Parameter type="Single">5</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15733</x>
+          <y>8282.66</y>
+          <z>-5385.53</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="particle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">map_end</Parameter>
+      <Parameter type="String">thunder_01</Parameter>
+      <Parameter type="Single">4</Parameter>
+      <Parameter type="Single">5</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1065.13</x>
+          <y>8282.66</y>
+          <z>8410.44</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

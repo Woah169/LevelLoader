@@ -8,6 +8,8 @@ document.getElementById("CV").appendChild( renderer.domElement );
 
 camera.position.z = 5;
 
+//Load Placement Items
+
 
 //Camera Controls
 var speed = 1;

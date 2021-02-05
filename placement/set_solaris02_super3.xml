@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">supersonic</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>0.201538</x>
+          <y>0.607901</y>
+          <z>14999.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>1</y>
+          <z>-0</z>
+          <w>-0</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">solaris02</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">solaris02</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5.78432</x>
+          <y>-3999.23</y>
+          <z>0.79255</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_goal" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Vector3">
+        <x>0.227997</x>
+        <y>49.3017</y>
+        <z>4622.01</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>18.83</x>
+        <y>71.1264</y>
+        <z>5050.96</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>0.109306</x>
+          <y>0</y>
+          <z>5051.93</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

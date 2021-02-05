@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>27267.9</x>
+          <y>5997.38</y>
+          <z>-65443.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>60232.4</x>
+          <y>5446.27</y>
+          <z>-51350.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_Pillar01</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>26178.8</x>
+          <y>8029.08</y>
+          <z>-46653.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.906308</y>
+          <z>-0</z>
+          <w>-0.422618</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1008.69</Parameter>
+      <Parameter type="Single">2193.63</Parameter>
+      <Parameter type="Single">1511.05</Parameter>
+      <Parameter type="String">goto_b</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19561.1</x>
+          <y>4327</y>
+          <z>-27405.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1008.69</Parameter>
+      <Parameter type="Single">2193.63</Parameter>
+      <Parameter type="Single">1511.05</Parameter>
+      <Parameter type="String">goto_a</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30916.5</x>
+          <y>4082.25</y>
+          <z>-84136.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.300706</y>
+          <z>0</z>
+          <w>0.953717</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1200</Parameter>
+      <Parameter type="Single">2500</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>47735.3</x>
+          <y>4457.26</y>
+          <z>-46020.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.130526</y>
+          <z>0</z>
+          <w>0.991445</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">800</Parameter>
+      <Parameter type="Single">800</Parameter>
+      <Parameter type="Single">800</Parameter>
+      <Parameter type="String">goto_tpj</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>64879.9</x>
+          <y>3814.86</y>
+          <z>-32054.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="warpgate" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">6</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>64869.4</x>
+          <y>3814.86</y>
+          <z>-32086.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1500</Parameter>
+      <Parameter type="Single">3500</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String">me0015</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>40562</x>
+          <y>4237.75</y>
+          <z>-83500.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Single">-180.09</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>69735.3</x>
+          <y>0</y>
+          <z>-74932.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="warpgate" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv</Parameter>
+      <Parameter type="Int32">6</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>70434.6</x>
+          <y>9852.37</y>
+          <z>-74421.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.642788</y>
+          <z>0</z>
+          <w>0.766044</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">410</Parameter>
+      <Parameter type="Single">120</Parameter>
+      <Parameter type="Single">560</Parameter>
+      <Parameter type="String">goto_kdv</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>70430.8</x>
+          <y>9850.9</y>
+          <z>-74421.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.087156</y>
+          <z>0</z>
+          <w>0.996195</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_Pillar01</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>57943.3</x>
+          <y>1923.46</y>
+          <z>-70761.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.819152</y>
+          <z>0</z>
+          <w>0.573577</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">shop</Parameter>
+      <Parameter type="Int32">17</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">wait</Parameter>
+      <Parameter type="String">shop</Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18306.2</x>
+          <y>4437.62</y>
+          <z>-46646</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.67559</y>
+          <z>0</z>
+          <w>0.737277</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_chair_a</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18291.7</x>
+          <y>4429.58</y>
+          <z>-46794.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_chair_a</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18294.1</x>
+          <y>4429.58</y>
+          <z>-46497.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_chair_a</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18235.9</x>
+          <y>4429.58</y>
+          <z>-46497.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_chair_a</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18235.9</x>
+          <y>4429.58</y>
+          <z>-46555.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_chair_a</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18235.9</x>
+          <y>4429.58</y>
+          <z>-46794.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_chair_a</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18235.9</x>
+          <y>4429.58</y>
+          <z>-46737.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="String">me1114</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>26957.7</x>
+          <y>2918.18</y>
+          <z>-65670.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="String">me1111</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19576.4</x>
+          <y>2918.18</y>
+          <z>-38315.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">missionman_0101_001</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">wait</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33428.8</x>
+          <y>5722.02</y>
+          <z>-69886.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.382683</y>
+          <z>0</z>
+          <w>0.92388</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">missionman_0101_002</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">wait</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>45798.6</x>
+          <y>4288.97</y>
+          <z>-78429.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">missionman_0101_003</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">wait</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>48866.7</x>
+          <y>4288.97</y>
+          <z>-60010.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

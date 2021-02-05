@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="vehicle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>34681.3</x>
+          <y>4216.81</y>
+          <z>-82719.9</z>
+        </Position>
+        <Rotation>
+          <x>0.043172</x>
+          <y>0.493466</y>
+          <z>-0.024534</z>
+          <w>0.868346</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>35837.4</x>
+          <y>4280.19</y>
+          <z>-80913.5</z>
+        </Position>
+        <Rotation>
+          <x>0.000996</x>
+          <y>0.992034</y>
+          <z>-0.00786</z>
+          <w>0.125717</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>36526.9</x>
+          <y>4280.19</y>
+          <z>-80750.1</z>
+        </Position>
+        <Rotation>
+          <x>0.000996</x>
+          <y>0.992034</y>
+          <z>-0.00786</z>
+          <w>0.125717</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>37215.6</x>
+          <y>4280.19</y>
+          <z>-80597.2</z>
+        </Position>
+        <Rotation>
+          <x>0.000996</x>
+          <y>0.992034</y>
+          <z>-0.00786</z>
+          <w>0.125717</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54061.7</x>
+          <y>4233.77</y>
+          <z>-71730.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54203.8</x>
+          <y>4233.87</y>
+          <z>-71494.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54345.9</x>
+          <y>4233.97</y>
+          <z>-71258</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54488</x>
+          <y>4234.08</y>
+          <z>-71021.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54630.1</x>
+          <y>4234.18</y>
+          <z>-70785.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54772.2</x>
+          <y>4234.28</y>
+          <z>-70548.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54914.3</x>
+          <y>4234.38</y>
+          <z>-70312.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55056.4</x>
+          <y>4234.49</y>
+          <z>-70075.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55198.5</x>
+          <y>4234.59</y>
+          <z>-69839.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55340.6</x>
+          <y>4234.69</y>
+          <z>-69602.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55482.7</x>
+          <y>4234.79</y>
+          <z>-69366.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55624.8</x>
+          <y>4234.9</y>
+          <z>-69129.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55766.9</x>
+          <y>4235</y>
+          <z>-68893.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_barricade</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>55909</x>
+          <y>4235.1</y>
+          <z>-68657</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.5</y>
+          <z>0</z>
+          <w>0.866025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>52028.1</x>
+          <y>4309.04</y>
+          <z>-60840.2</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>52361.7</x>
+          <y>4309.25</y>
+          <z>-61350</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>52695.2</x>
+          <y>4309.46</y>
+          <z>-61859.9</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>53028.8</x>
+          <y>4309.67</y>
+          <z>-62369.7</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>53362.3</x>
+          <y>4309.88</y>
+          <z>-62879.6</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>53695.9</x>
+          <y>4310.09</y>
+          <z>-63389.4</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">twn_direction</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>54029.4</x>
+          <y>4310.3</y>
+          <z>-63899.3</z>
+        </Position>
+        <Rotation>
+          <x>0.025984</x>
+          <y>0.482687</y>
+          <z>-0.014329</z>
+          <w>0.87529</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objecttownscar" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">twn_c_m1124_rivalcar01</Parameter>
+      <Parameter type="String">NpcRaceCarBot1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">100</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>34393.3</x>
+          <y>4213.37</y>
+          <z>-82356.3</z>
+        </Position>
+        <Rotation>
+          <x>0.042701</x>
+          <y>0.455029</y>
+          <z>-0.021852</z>
+          <w>0.889184</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">shadow</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>34630.8</x>
+          <y>4285.79</y>
+          <z>-82732.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsgoal" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">2749.11</Parameter>
+      <Parameter type="Single">3000</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>38070.9</x>
+          <y>4233.7</y>
+          <z>-76775.5</z>
+        </Position>
+        <Rotation>
+          <x>-0.001634</x>
+          <y>2E-06</y>
+          <z>-0.000945</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="String">rule</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>34700.7</x>
+          <y>4080.33</y>
+          <z>-82720.8</z>
+        </Position>
+        <Rotation>
+          <x>-0.029466</x>
+          <y>0.908984</y>
+          <z>-0.065226</z>
+          <w>-0.410641</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

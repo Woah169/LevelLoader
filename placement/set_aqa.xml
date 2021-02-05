@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="common_switch" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">4</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="UInt32">2</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>1000</x>
+          <y>0</y>
+          <z>3000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_switch" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">4</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="UInt32">3</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>1500</x>
+          <y>0</y>
+          <z>3000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_glass_red" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>1000</x>
+          <y>0</y>
+          <z>2000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_lamp" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2000</x>
+          <y>500</y>
+          <z>3000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_mercury_small" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>500</x>
+          <y>100</y>
+          <z>3000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_mercury_small" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>0</x>
+          <y>100</y>
+          <z>3500</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_mercury_small" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>500</x>
+          <y>100</y>
+          <z>4000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_mercury_small" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>0</x>
+          <y>100</y>
+          <z>4500</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_mercury_small" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>500</x>
+          <y>100</y>
+          <z>5000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_magnet" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">100</Parameter>
+      <Parameter type="Single">30</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>0</x>
+          <y>0</y>
+          <z>4000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_launcher" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">5</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2000</x>
+          <y>300</y>
+          <z>6000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_launcher" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">5</Parameter>
+      <Parameter type="UInt32">10</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2000</x>
+          <y>300</y>
+          <z>6000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="aqa_pond" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">100</Parameter>
+      <Parameter type="Int32">10</Parameter>
+      <Parameter type="Int32">5</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">0.99</Parameter>
+      <Parameter type="Single">10</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>0</x>
+          <y>10</y>
+          <z>-5000</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1500</x>
+          <y>50</y>
+          <z>0</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="pointlight" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">AnimTest</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1400</x>
+          <y>200</y>
+          <z>0</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="windswitch" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1500</x>
+          <y>0</y>
+          <z>0</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">shadow_none</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18975.5</x>
+          <y>4500.76</y>
+          <z>-38992.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.737309</y>
+          <z>0</z>
+          <w>0.675556</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_goal" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Vector3">
+        <x>18983.7</x>
+        <y>4536.03</y>
+        <z>-39350.4</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>19023.7</x>
+        <y>4650.77</y>
+        <z>-39021.1</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18997.3</x>
+          <y>4500.77</y>
+          <z>-39225.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.999757</y>
+          <z>-0</z>
+          <w>-0.022045</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="pointsample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18983.7</x>
+          <y>4536.03</y>
+          <z>-39350.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.881197</y>
+          <z>-0</z>
+          <w>-0.472749</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="pointsample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19023.7</x>
+          <y>4650.77</y>
+          <z>-39021.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.881197</y>
+          <z>-0</z>
+          <w>-0.472749</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">msg_m1103_103</Parameter>
+      <Parameter type="Int32">18</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">msg_m1103_103</Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18902.1</x>
+          <y>4499.64</y>
+          <z>-39012.8</z>
+        </Position>
+        <Rotation>
+          <x>-0</x>
+          <y>0.504369</y>
+          <z>-0</z>
+          <w>0.863488</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

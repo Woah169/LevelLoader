@@ -1,0 +1,7308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="common_hint" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_all03_h25_so</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11897.1</x>
+          <y>1505.8</y>
+          <z>12465.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_hint" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_all03_h36_so</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9470.17</x>
+          <y>1505.8</y>
+          <z>6778.08</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.024111</y>
+          <z>0</z>
+          <w>0.999709</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_hint_collision" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_kdv01_a05_sv</Parameter>
+      <Parameter type="Single">992.275</Parameter>
+      <Parameter type="Single">1375.43</Parameter>
+      <Parameter type="Single">1178.94</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5742.36</x>
+          <y>2460.14</y>
+          <z>5168.61</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.357771</y>
+          <z>0</z>
+          <w>0.933809</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3500</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="UInt32">20</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9093.04</x>
+          <y>2589.12</y>
+          <z>6963.97</z>
+        </Position>
+        <Rotation>
+          <x>-0.17779</x>
+          <y>0.636131</y>
+          <z>0.182243</z>
+          <w>0.728365</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17840.9</x>
+          <y>1364.56</y>
+          <z>4158.61</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17270.7</x>
+          <y>1364.56</y>
+          <z>4427.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_hint" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_all03_h07_so</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17483.4</x>
+          <y>1377.35</y>
+          <z>4179.41</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.252076</y>
+          <z>0</z>
+          <w>0.967707</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="goalring" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-4697.74</x>
+          <y>1611.84</y>
+          <z>-1340.79</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.482779</y>
+          <z>0</z>
+          <w>0.875742</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5981.85</x>
+          <y>2610.96</y>
+          <z>6621.41</z>
+        </Position>
+        <Rotation>
+          <x>-0.000698</x>
+          <y>0.685888</y>
+          <z>0.001183</z>
+          <w>0.727705</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="brickwall" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18730.2</x>
+          <y>2796.68</y>
+          <z>6795.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.223981</y>
+          <z>0</z>
+          <w>0.974593</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18746.2</x>
+          <y>3162.82</y>
+          <z>7029.69</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19108.1</x>
+          <y>3209.82</y>
+          <z>7071.79</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18968.4</x>
+          <y>3399.51</y>
+          <z>7407.42</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19318.1</x>
+          <y>3631.3</y>
+          <z>7501.83</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19508</x>
+          <y>3847.64</y>
+          <z>7873.35</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.080049</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20342.8</x>
+          <y>3877.38</y>
+          <z>9007.46</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.160098</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20207.2</x>
+          <y>3877.38</y>
+          <z>8863.24</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.240147</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20018.9</x>
+          <y>3877.38</y>
+          <z>8802.27</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.320196</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19824.5</x>
+          <y>3877.38</y>
+          <z>8839.63</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.400245</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19672.4</x>
+          <y>3877.38</y>
+          <z>8966.01</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.480294</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19599.8</x>
+          <y>3877.38</y>
+          <z>9150.17</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.560343</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19625</x>
+          <y>3877.38</y>
+          <z>9346.36</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.640392</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19741.9</x>
+          <y>3877.38</y>
+          <z>9506.22</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.720441</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19921.2</x>
+          <y>3877.38</y>
+          <z>9590.07</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.80049</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20118.6</x>
+          <y>3877.38</y>
+          <z>9577.03</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.880539</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20285.2</x>
+          <y>3877.38</y>
+          <z>9470.26</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.960588</Parameter>
+      <Parameter type="String">Circle01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20380</x>
+          <y>3877.38</y>
+          <z>9296.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21091</x>
+          <y>2230.78</y>
+          <z>-1082.23</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21174.2</x>
+          <y>2231.04</y>
+          <z>-746.079</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.110672</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20498.4</x>
+          <y>522.486</y>
+          <z>-805.177</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.221343</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20329.1</x>
+          <y>522.486</y>
+          <z>-903.837</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.332015</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20136</x>
+          <y>522.486</y>
+          <z>-871.057</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.442686</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20008.5</x>
+          <y>522.486</y>
+          <z>-722.126</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.553358</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20006.1</x>
+          <y>522.486</y>
+          <z>-526</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.664029</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20129.9</x>
+          <y>522.486</y>
+          <z>-374.111</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.774701</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20322.3</x>
+          <y>522.486</y>
+          <z>-336.642</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.885372</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20494</x>
+          <y>522.486</y>
+          <z>-431.288</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.996044</Parameter>
+      <Parameter type="String">Circle02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20565.2</x>
+          <y>522.486</y>
+          <z>-613.739</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">2</Parameter>
+      <Parameter type="UInt32">39</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15264.6</x>
+          <y>1034.57</y>
+          <z>-10638.9</z>
+        </Position>
+        <Rotation>
+          <x>-0.067843</x>
+          <y>-0.775445</y>
+          <z>-0.054713</z>
+          <w>0.625371</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">2</Parameter>
+      <Parameter type="UInt32">40</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13224.1</x>
+          <y>1034.57</y>
+          <z>-11042.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.972825</y>
+          <z>-0</z>
+          <w>0.23154</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1500</Parameter>
+      <Parameter type="Single">0.6</Parameter>
+      <Parameter type="UInt32">234</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13852.1</x>
+          <y>1034.57</y>
+          <z>-12841.6</z>
+        </Position>
+        <Rotation>
+          <x>-0.148596</x>
+          <y>-0.600126</y>
+          <z>-0.211169</z>
+          <w>0.757084</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.131434</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2443.51</x>
+          <y>-27.3092</y>
+          <z>-13753.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.262868</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2618.74</x>
+          <y>-106.239</y>
+          <z>-13698</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.394303</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2793.95</x>
+          <y>-185.16</y>
+          <z>-13642.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.525737</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>2969.16</x>
+          <y>-264.082</y>
+          <z>-13587.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.657171</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>3144.55</x>
+          <y>-343.082</y>
+          <z>-13531.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.788605</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>3319.76</x>
+          <y>-422.004</y>
+          <z>-13476.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.92004</Parameter>
+      <Parameter type="String">Line03</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>3494.98</x>
+          <y>-500.925</y>
+          <z>-13420.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.131765</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>869.316</x>
+          <y>-38.4813</y>
+          <z>-13288.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.26353</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>754.464</x>
+          <y>-119.665</y>
+          <z>-13146</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.395295</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>639.509</x>
+          <y>-200.921</y>
+          <z>-13003.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.52706</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>524.663</x>
+          <y>-282.1</y>
+          <z>-12861.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.658825</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>409.911</x>
+          <y>-363.213</y>
+          <z>-12719.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.79059</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>295.044</x>
+          <y>-444.406</y>
+          <z>-12577.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.922355</Parameter>
+      <Parameter type="String">Line04</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>180.178</x>
+          <y>-525.6</y>
+          <z>-12435</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">2000</Parameter>
+      <Parameter type="Single">0.5</Parameter>
+      <Parameter type="UInt32">187</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14.8242</x>
+          <y>-664.774</y>
+          <z>-12208.4</z>
+        </Position>
+        <Rotation>
+          <x>-0.419185</x>
+          <y>-0.325226</y>
+          <z>-0.163927</z>
+          <w>0.831649</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2642.02</x>
+          <y>139.11</y>
+          <z>-9869.33</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2004.8</x>
+          <y>139.11</y>
+          <z>-8344.84</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.602624</y>
+          <z>0</z>
+          <w>0.798025</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3000.11</x>
+          <y>1421.58</y>
+          <z>-2527.48</z>
+        </Position>
+        <Rotation>
+          <x>0.096403</x>
+          <y>0.867464</y>
+          <z>-0.185188</z>
+          <w>0.451573</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3176.97</x>
+          <y>1519.61</y>
+          <z>-2329.2</z>
+        </Position>
+        <Rotation>
+          <x>0.096403</x>
+          <y>0.867464</y>
+          <z>-0.185188</z>
+          <w>0.451573</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2804.79</x>
+          <y>1421.58</y>
+          <z>-2244.58</z>
+        </Position>
+        <Rotation>
+          <x>0.096403</x>
+          <y>0.867464</y>
+          <z>-0.185188</z>
+          <w>0.451573</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19163.7</x>
+          <y>3819.18</y>
+          <z>7825.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11697.9</x>
+          <y>1409.08</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11399.4</x>
+          <y>1403.61</y>
+          <z>13566.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="savepoint" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20492.2</x>
+          <y>506.436</y>
+          <z>-2797.72</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.993902</y>
+          <z>-0</z>
+          <w>-0.110269</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eCannon</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eCannon_Fix_Launcher</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7782.35</x>
+          <y>2584.18</y>
+          <z>7731.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.95112</y>
+          <z>-0</z>
+          <w>-0.308822</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20358.7</x>
+          <y>203.117</y>
+          <z>-4770.36</z>
+        </Position>
+        <Rotation>
+          <x>-0.001194</x>
+          <y>0.233674</y>
+          <z>0.000679</z>
+          <w>0.972314</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19701.6</x>
+          <y>204.844</y>
+          <z>-4863.59</z>
+        </Position>
+        <Rotation>
+          <x>-0.001337</x>
+          <y>-0.050718</y>
+          <z>0.000314</z>
+          <w>0.998712</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="gate" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5941.96</x>
+          <y>2592.63</y>
+          <z>5453.14</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.934205</y>
+          <z>-0</z>
+          <w>-0.356738</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="gate" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20948</x>
+          <y>507.486</y>
+          <z>-1691.61</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.130526</y>
+          <z>0</z>
+          <w>0.991445</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="brickwall" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2769.54</x>
+          <y>1130.18</y>
+          <z>-2547.87</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.454877</y>
+          <z>0</z>
+          <w>0.890554</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2979.2</x>
+          <y>1519.61</y>
+          <z>-2068.36</z>
+        </Position>
+        <Rotation>
+          <x>0.096403</x>
+          <y>0.867464</y>
+          <z>-0.185188</z>
+          <w>0.451573</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="brickwall" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20968.2</x>
+          <y>1996.87</y>
+          <z>-758.675</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.784701</y>
+          <z>0</z>
+          <w>0.619875</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21442.1</x>
+          <y>2389.88</y>
+          <z>-1068.13</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21524.6</x>
+          <y>2389.88</y>
+          <z>-719.891</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15875.3</x>
+          <y>-345.596</y>
+          <z>-7320.02</z>
+        </Position>
+        <Rotation>
+          <x>-0.001236</x>
+          <y>0.168649</y>
+          <z>0.000599</z>
+          <w>0.985675</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20572</x>
+          <y>3861.5</y>
+          <z>8834.14</z>
+        </Position>
+        <Rotation>
+          <x>-0.0004</x>
+          <y>0.838181</y>
+          <z>0.001314</z>
+          <w>0.54539</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11635.3</x>
+          <y>1409.08</y>
+          <z>12424</z>
+        </Position>
+        <Rotation>
+          <x>-0.001201</x>
+          <y>-0.708977</y>
+          <z>-0.000666</z>
+          <w>0.70523</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19977.7</x>
+          <y>3851.38</y>
+          <z>9176.52</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17240.9</x>
+          <y>-652.656</y>
+          <z>-440.787</z>
+        </Position>
+        <Rotation>
+          <x>-0.001271</x>
+          <y>0.107111</y>
+          <z>0.000521</z>
+          <w>0.994246</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21517.1</x>
+          <y>515.551</y>
+          <z>-2677.69</z>
+        </Position>
+        <Rotation>
+          <x>0.000528</x>
+          <y>0.993659</y>
+          <z>0.001268</z>
+          <w>-0.112427</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="gate" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14103.6</x>
+          <y>851.417</y>
+          <z>-6975.99</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.639944</y>
+          <z>0</z>
+          <w>0.768422</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13094.8</x>
+          <y>854.342</y>
+          <z>-6980.55</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13163.6</x>
+          <y>854.342</y>
+          <z>-6616.35</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13384</x>
+          <y>854.342</y>
+          <z>-6841.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">2500</Parameter>
+      <Parameter type="Single">0.5</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15646.3</x>
+          <y>-344.772</y>
+          <z>-7739.73</z>
+        </Position>
+        <Rotation>
+          <x>-0.687332</x>
+          <y>0</y>
+          <z>0</z>
+          <w>0.726344</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15208.8</x>
+          <y>875.698</y>
+          <z>-6495.83</z>
+        </Position>
+        <Rotation>
+          <x>7.3E-05</x>
+          <y>0.974081</y>
+          <z>0.001372</z>
+          <w>0.226196</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1745.7</x>
+          <y>1288.4</y>
+          <z>-9786.23</z>
+        </Position>
+        <Rotation>
+          <x>-0.000251</x>
+          <y>0.893557</y>
+          <z>0.00135</z>
+          <w>0.448947</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_breakbridge_d</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16254.4</x>
+          <y>901.02</y>
+          <z>-7368.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.087156</y>
+          <z>0</z>
+          <w>0.996195</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_breaktower</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16314.6</x>
+          <y>-810.74</y>
+          <z>1950.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.130526</y>
+          <z>0</z>
+          <w>0.991445</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Wall_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>22058.9</x>
+          <y>1151.62</y>
+          <z>-1253.5</z>
+        </Position>
+        <Rotation>
+          <x>0.560986</x>
+          <y>-0.430459</y>
+          <z>0.430459</z>
+          <w>0.560986</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>22150.3</x>
+          <y>1088.98</y>
+          <z>-851.945</z>
+        </Position>
+        <Rotation>
+          <x>0.560986</x>
+          <y>-0.430459</y>
+          <z>0.430459</z>
+          <w>0.560986</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eSearcher</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eSearcher_Normal</Parameter>
+      <Parameter type="Single">14.6865</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14573.1</x>
+          <y>1032.1</y>
+          <z>-7074.95</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.802798</y>
+          <z>0</z>
+          <w>0.596252</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_psimarksphere" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String">esp001</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9490.24</x>
+          <y>1410.87</y>
+          <z>6292.22</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="espstairs_right" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7212.2</x>
+          <y>-2972.25</y>
+          <z>6796.57</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.729045</y>
+          <z>0</z>
+          <w>0.684466</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5968.62</x>
+          <y>2610.96</y>
+          <z>6827.27</z>
+        </Position>
+        <Rotation>
+          <x>-0.000698</x>
+          <y>0.685888</y>
+          <z>0.001183</z>
+          <w>0.727705</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6896.4</x>
+          <y>2610.96</y>
+          <z>8040.42</z>
+        </Position>
+        <Rotation>
+          <x>-0.00133</x>
+          <y>-0.029233</y>
+          <z>0.000343</z>
+          <w>0.999572</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7102.27</x>
+          <y>2610.96</y>
+          <z>8053.52</z>
+        </Position>
+        <Rotation>
+          <x>-0.00133</x>
+          <y>-0.029233</y>
+          <z>0.000343</z>
+          <w>0.999572</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7109.07</x>
+          <y>2610.96</y>
+          <z>5539.96</z>
+        </Position>
+        <Rotation>
+          <x>-0.00133</x>
+          <y>-0.029233</y>
+          <z>0.000343</z>
+          <w>0.999572</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7314.94</x>
+          <y>2610.96</y>
+          <z>5553.05</z>
+        </Position>
+        <Rotation>
+          <x>-0.00133</x>
+          <y>-0.029233</y>
+          <z>0.000343</z>
+          <w>0.999572</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7102.27</x>
+          <y>2816.24</y>
+          <z>8053.52</z>
+        </Position>
+        <Rotation>
+          <x>-0.00133</x>
+          <y>-0.029233</y>
+          <z>0.000343</z>
+          <w>0.999572</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.939029</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7415.77</x>
+          <y>2588.43</y>
+          <z>6938.07</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.82165</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7282.29</x>
+          <y>2588.43</y>
+          <z>7080.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.704271</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7087.41</x>
+          <y>2588.43</y>
+          <z>7096.91</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.586893</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6932.43</x>
+          <y>2588.43</y>
+          <z>6977.57</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.469514</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6897.88</x>
+          <y>2588.43</y>
+          <z>6785.32</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.352136</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7001.8</x>
+          <y>2588.43</y>
+          <z>6619.63</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.234757</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7189.95</x>
+          <y>2588.43</y>
+          <z>6566.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.117379</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7364.78</x>
+          <y>2588.43</y>
+          <z>6654.39</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11906.7</x>
+          <y>1409.08</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12111.9</x>
+          <y>1409.08</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12320.3</x>
+          <y>1409.08</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11906.7</x>
+          <y>1616.83</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12111.9</x>
+          <y>1616.83</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12225.3</x>
+          <y>1821.71</y>
+          <z>6780.47</z>
+        </Position>
+        <Rotation>
+          <x>-0</x>
+          <y>0.020078</y>
+          <z>0</z>
+          <w>0.999798</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11781.6</x>
+          <y>1821.71</y>
+          <z>6777.15</z>
+        </Position>
+        <Rotation>
+          <x>-0</x>
+          <y>0.019452</y>
+          <z>0</z>
+          <w>0.999811</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12320.3</x>
+          <y>1617.94</y>
+          <z>6773.13</z>
+        </Position>
+        <Rotation>
+          <x>-0.00132</x>
+          <y>-0.001382</y>
+          <z>0.00038</z>
+          <w>0.999998</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20657.8</x>
+          <y>3861.5</y>
+          <z>9022.23</z>
+        </Position>
+        <Rotation>
+          <x>-0.0004</x>
+          <y>0.838181</y>
+          <z>0.001314</z>
+          <w>0.54539</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20657.8</x>
+          <y>4067.4</y>
+          <z>9022.23</z>
+        </Position>
+        <Rotation>
+          <x>-0.0004</x>
+          <y>0.838181</y>
+          <z>0.001314</z>
+          <w>0.54539</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20398.3</x>
+          <y>4067.4</y>
+          <z>9837.37</z>
+        </Position>
+        <Rotation>
+          <x>0.000642</x>
+          <y>0.97913</y>
+          <z>0.001214</z>
+          <w>-0.203231</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20398.3</x>
+          <y>3861.5</y>
+          <z>9837.37</z>
+        </Position>
+        <Rotation>
+          <x>0.000642</x>
+          <y>0.97913</y>
+          <z>0.001214</z>
+          <w>-0.203231</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20209.5</x>
+          <y>3861.5</y>
+          <z>9921.75</z>
+        </Position>
+        <Rotation>
+          <x>0.000642</x>
+          <y>0.97913</y>
+          <z>0.001214</z>
+          <w>-0.203231</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17391</x>
+          <y>-652.656</y>
+          <z>159.846</z>
+        </Position>
+        <Rotation>
+          <x>-0.001271</x>
+          <y>0.107111</y>
+          <z>0.000521</z>
+          <w>0.994246</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20094.3</x>
+          <y>511.207</y>
+          <z>-129.344</z>
+        </Position>
+        <Rotation>
+          <x>-0.001271</x>
+          <y>0.107111</y>
+          <z>0.000521</z>
+          <w>0.994246</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20302.8</x>
+          <y>511.207</y>
+          <z>-178.195</z>
+        </Position>
+        <Rotation>
+          <x>-0.001271</x>
+          <y>0.107111</y>
+          <z>0.000521</z>
+          <w>0.994246</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Wall_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>22080.2</x>
+          <y>778.009</y>
+          <z>-1104.91</z>
+        </Position>
+        <Rotation>
+          <x>0.560986</x>
+          <y>-0.430459</y>
+          <z>0.430459</z>
+          <w>0.560986</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Vulcan</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9073.23</x>
+          <y>1291.26</y>
+          <z>-14023.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.098872</y>
+          <z>0</z>
+          <w>0.9951</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Vulcan</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6866.53</x>
+          <y>1291.26</y>
+          <z>-12354.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.555285</y>
+          <z>0</z>
+          <w>0.83166</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9182.16</x>
+          <y>1291.37</y>
+          <z>-10405.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9393.17</x>
+          <y>1291.37</y>
+          <z>-10405.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9603.97</x>
+          <y>1291.37</y>
+          <z>-10405.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7001.99</x>
+          <y>1273.43</y>
+          <z>-11632.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8906.45</x>
+          <y>1291.37</y>
+          <z>-11191.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.704067</y>
+          <z>0</z>
+          <w>0.710133</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8908.26</x>
+          <y>1291.37</y>
+          <z>-10980.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.704067</y>
+          <z>0</z>
+          <w>0.710133</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8904.64</x>
+          <y>1291.37</y>
+          <z>-11402.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.704067</y>
+          <z>0</z>
+          <w>0.710133</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox_Prime</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9704.61</x>
+          <y>1291.37</y>
+          <z>-13783.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9042.09</x>
+          <y>1291.37</y>
+          <z>-14450.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9255.96</x>
+          <y>1291.37</y>
+          <z>-14450.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8827.41</x>
+          <y>1291.37</y>
+          <z>-14450.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8849.25</x>
+          <y>1520.24</y>
+          <z>-14439</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.098872</y>
+          <z>0</z>
+          <w>0.9951</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9257.96</x>
+          <y>1520.24</y>
+          <z>-14439</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.098872</y>
+          <z>0</z>
+          <w>0.9951</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21564.6</x>
+          <y>515.551</y>
+          <z>-2472.98</z>
+        </Position>
+        <Rotation>
+          <x>0.000528</x>
+          <y>0.993659</y>
+          <z>0.001268</z>
+          <w>-0.112427</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21564.6</x>
+          <y>722.367</y>
+          <z>-2472.98</z>
+        </Position>
+        <Rotation>
+          <x>0.000528</x>
+          <y>0.993659</y>
+          <z>0.001268</z>
+          <w>-0.112427</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox_Prime</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12176.1</x>
+          <y>1416.99</y>
+          <z>10526.3</z>
+        </Position>
+        <Rotation>
+          <x>-0.001192</x>
+          <y>-0.718098</y>
+          <z>-0.000682</z>
+          <w>0.695941</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12001</x>
+          <y>1415.42</y>
+          <z>7130.17</z>
+        </Position>
+        <Rotation>
+          <x>-0</x>
+          <y>-0.06422</y>
+          <z>-0</z>
+          <w>0.997936</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14977</x>
+          <y>875.698</y>
+          <z>-7774.48</z>
+        </Position>
+        <Rotation>
+          <x>-0.00015</x>
+          <y>0.924533</y>
+          <z>0.001365</z>
+          <w>0.381099</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>294.782</x>
+          <y>1295.81</y>
+          <z>-8217.63</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.88086</y>
+          <z>-0</z>
+          <w>-0.473376</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1399.67</x>
+          <y>1288.4</y>
+          <z>-8753.43</z>
+        </Position>
+        <Rotation>
+          <x>0.000314</x>
+          <y>0.998695</y>
+          <z>0.001337</z>
+          <w>0.051049</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3576.39</x>
+          <y>1396.8</y>
+          <z>-1500.49</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.306537</y>
+          <z>0</z>
+          <w>0.951859</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3748.31</x>
+          <y>1396.8</y>
+          <z>-1378.28</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.306537</y>
+          <z>0</z>
+          <w>0.951859</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3920.35</x>
+          <y>1396.8</y>
+          <z>-1252.66</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.306537</y>
+          <z>0</z>
+          <w>0.951859</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="inclinedbridge" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>847.304</x>
+          <y>-1824.51</y>
+          <z>-7779.12</z>
+        </Position>
+        <Rotation>
+          <x>-0.125844</x>
+          <y>0.59205</y>
+          <z>-0.165501</z>
+          <w>0.77862</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="gate" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-20970.4</x>
+          <y>100.66</y>
+          <z>11929.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.457227</y>
+          <z>0</z>
+          <w>0.88935</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">669.983</Parameter>
+      <Parameter type="Single">1275.79</Parameter>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="String">iwa001</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-734.441</x>
+          <y>197.124</y>
+          <z>-3988.22</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.46085</y>
+          <z>0</z>
+          <w>0.887478</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="impulsesphere" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">200</Parameter>
+      <Parameter type="Single">4000</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3001.09</x>
+          <y>1561.71</y>
+          <z>-2270.83</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">669.983</Parameter>
+      <Parameter type="Single">1275.79</Parameter>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="String">iwa002</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17354.1</x>
+          <y>-718.208</y>
+          <z>-150.973</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.613022</y>
+          <z>0</z>
+          <w>0.790066</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="impulsesphere" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">200</Parameter>
+      <Parameter type="Single">8000</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21418</x>
+          <y>2370.19</y>
+          <z>-892.384</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21736.6</x>
+          <y>2549.78</y>
+          <z>-1258</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>21819</x>
+          <y>2549.78</y>
+          <z>-909.76</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11699.5</x>
+          <y>1409.08</y>
+          <z>9253.97</z>
+        </Position>
+        <Rotation>
+          <x>-0.001201</x>
+          <y>-0.708977</y>
+          <z>-0.000666</z>
+          <w>0.70523</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6787.73</x>
+          <y>1273.43</y>
+          <z>-11632.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6573.68</x>
+          <y>1273.43</y>
+          <z>-11632.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6387.62</x>
+          <y>1273.43</y>
+          <z>-13157</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6173.57</x>
+          <y>1273.43</y>
+          <z>-13157</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6601.89</x>
+          <y>1273.43</y>
+          <z>-13157</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_scaffold</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>986.884</x>
+          <y>-750.028</y>
+          <z>-8155.69</z>
+        </Position>
+        <Rotation>
+          <x>4.1E-05</x>
+          <y>0.968545</y>
+          <z>0.001373</z>
+          <w>0.248835</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_scaffold</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6524.14</x>
+          <y>-750.028</y>
+          <z>-12365.4</z>
+        </Position>
+        <Rotation>
+          <x>-0.000663</x>
+          <y>0.706904</y>
+          <z>0.001203</z>
+          <w>0.707308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_scaffold</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9194.88</x>
+          <y>-750.028</y>
+          <z>-14259.3</z>
+        </Position>
+        <Rotation>
+          <x>-0.000663</x>
+          <y>0.706904</y>
+          <z>0.001203</z>
+          <w>0.707308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_scaffold</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9668.06</x>
+          <y>-750.028</y>
+          <z>-11106.2</z>
+        </Position>
+        <Rotation>
+          <x>-0.000663</x>
+          <y>0.706904</y>
+          <z>0.001203</z>
+          <w>0.707308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.256254</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11873.4</x>
+          <y>1415.57</y>
+          <z>12825.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.512507</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11873.4</x>
+          <y>1415.57</y>
+          <z>12975.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.768761</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11873.4</x>
+          <y>1415.57</y>
+          <z>13125.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.218846</Parameter>
+      <Parameter type="String">Line02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11978.8</x>
+          <y>1416.6</y>
+          <z>8495.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.437693</Parameter>
+      <Parameter type="String">Line02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11977.1</x>
+          <y>1416.6</y>
+          <z>8645.68</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.656539</Parameter>
+      <Parameter type="String">Line02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11975.4</x>
+          <y>1416.6</y>
+          <z>8795.69</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.875385</Parameter>
+      <Parameter type="String">Line02</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11973.7</x>
+          <y>1416.6</y>
+          <z>8945.69</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17793.3</x>
+          <y>1626.15</y>
+          <z>4832.21</z>
+        </Position>
+        <Rotation>
+          <x>0.001082</x>
+          <y>0.206932</y>
+          <z>0.000846</z>
+          <w>0.978354</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17912</x>
+          <y>1857.21</y>
+          <z>5211.3</z>
+        </Position>
+        <Rotation>
+          <x>0.001082</x>
+          <y>0.206932</y>
+          <z>0.000846</z>
+          <w>0.978354</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18267.7</x>
+          <y>1972.42</y>
+          <z>5431.86</z>
+        </Position>
+        <Rotation>
+          <x>0.001082</x>
+          <y>0.206932</y>
+          <z>0.000846</z>
+          <w>0.978354</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="kdv_door" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-4881.16</x>
+          <y>1408.07</y>
+          <z>-2209.96</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.293883</y>
+          <z>0</z>
+          <w>0.955841</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="kdv_door" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9003.36</x>
+          <y>2598.91</y>
+          <z>6938.72</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.681145</y>
+          <z>0</z>
+          <w>0.732149</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="kdv_door" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2792.15</x>
+          <y>126.57</y>
+          <z>-8853.95</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.531776</y>
+          <z>0</z>
+          <w>0.846885</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="gate" id="0">
+    <CustomData />
+    <Parameters />
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>22034.3</x>
+          <y>851.417</y>
+          <z>-8374</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.642634</y>
+          <z>0</z>
+          <w>0.766173</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">4</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-3578.89</x>
+          <y>125.179</y>
+          <z>-8492.17</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">IronBox</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1754.78</x>
+          <y>1288.4</y>
+          <z>-7868.99</z>
+        </Position>
+        <Rotation>
+          <x>-0.000163</x>
+          <y>0.920757</y>
+          <z>0.001364</z>
+          <w>0.390134</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.288187</Parameter>
+      <Parameter type="String">Line08</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2007.92</x>
+          <y>144.36</y>
+          <z>-9207.68</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.576374</Parameter>
+      <Parameter type="String">Line08</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1871.66</x>
+          <y>144.36</y>
+          <z>-9270.46</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.86456</Parameter>
+      <Parameter type="String">Line08</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-1735.4</x>
+          <y>144.36</y>
+          <z>-9333.25</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">200</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">800</Parameter>
+      <Parameter type="Single">200</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20272.7</x>
+          <y>1132.23</y>
+          <z>-8045.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.616698</y>
+          <z>0</z>
+          <w>0.787199</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">guillotine</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20353.8</x>
+          <y>896.094</y>
+          <z>-7678.43</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.117053</y>
+          <z>0</z>
+          <w>0.993126</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">guillotine</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20175.1</x>
+          <y>896.094</y>
+          <z>-8428.75</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.117053</y>
+          <z>0</z>
+          <w>0.993126</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19829.3</x>
+          <y>105.807</y>
+          <z>11802.3</z>
+        </Position>
+        <Rotation>
+          <x>7.3E-05</x>
+          <y>0.974037</y>
+          <z>0.001372</z>
+          <w>0.226386</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-20454.7</x>
+          <y>105.807</y>
+          <z>10831.4</z>
+        </Position>
+        <Rotation>
+          <x>-0.000541</x>
+          <y>0.773598</y>
+          <z>0.001263</z>
+          <w>0.633675</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">silver</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11877.8</x>
+          <y>1412.81</y>
+          <z>13568.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.999971</y>
+          <z>-0</z>
+          <w>-0.007669</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eBomber</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eBomber_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18203.1</x>
+          <y>2262.35</y>
+          <z>5746.14</z>
+        </Position>
+        <Rotation>
+          <x>0.001082</x>
+          <y>0.206932</y>
+          <z>0.000846</z>
+          <w>0.978354</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.234461</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20292.2</x>
+          <y>353.75</y>
+          <z>-3667.66</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.468921</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20323.7</x>
+          <y>381.065</y>
+          <z>-3523.55</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.703382</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20355.3</x>
+          <y>408.379</y>
+          <z>-3379.44</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.937843</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20386.9</x>
+          <y>435.693</y>
+          <z>-3235.33</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.234461</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15642.5</x>
+          <y>95.5138</y>
+          <z>-7737.09</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.234461</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15642.5</x>
+          <y>252.653</y>
+          <z>-7737.09</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.234461</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15642.5</x>
+          <y>589.281</y>
+          <z>-7737.09</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.234461</Parameter>
+      <Parameter type="String">Line12</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15642.5</x>
+          <y>432.142</y>
+          <z>-7737.09</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eStinger(Fly)</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">eStingerFly_Fix</Parameter>
+      <Parameter type="Single">5.30859</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">88</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18616.5</x>
+          <y>352.057</y>
+          <z>-6748</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.142216</y>
+          <z>0</z>
+          <w>0.989836</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix</Parameter>
+      <Parameter type="Single">5.30859</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">88</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18912.5</x>
+          <y>892.635</y>
+          <z>-7586.03</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.142216</y>
+          <z>0</z>
+          <w>0.989836</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15113.9</x>
+          <y>875.698</y>
+          <z>-6301.99</z>
+        </Position>
+        <Rotation>
+          <x>7.3E-05</x>
+          <y>0.974081</y>
+          <z>0.001372</z>
+          <w>0.226196</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14817.5</x>
+          <y>875.698</y>
+          <z>-7928</z>
+        </Position>
+        <Rotation>
+          <x>-0.00015</x>
+          <y>0.924533</y>
+          <z>0.001365</z>
+          <w>0.381099</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14420.3</x>
+          <y>956.272</y>
+          <z>-6426.54</z>
+        </Position>
+        <Rotation>
+          <x>7.3E-05</x>
+          <y>0.974081</y>
+          <z>0.001372</z>
+          <w>0.226196</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">havokthorn_fix</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14469.6</x>
+          <y>956.272</y>
+          <z>-6169.49</z>
+        </Position>
+        <Rotation>
+          <x>7.3E-05</x>
+          <y>0.974081</y>
+          <z>0.001372</z>
+          <w>0.226196</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>545.041</x>
+          <y>1295.81</y>
+          <z>-8718.14</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.88086</y>
+          <z>-0</z>
+          <w>-0.473376</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eSearcher</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eSearcher_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-2279.87</x>
+          <y>304.125</y>
+          <z>-9086.79</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.809576</y>
+          <z>0</z>
+          <w>0.587015</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19041.4</x>
+          <y>787.646</y>
+          <z>-7185.09</z>
+        </Position>
+        <Rotation>
+          <x>-0</x>
+          <y>0.887011</y>
+          <z>-0</z>
+          <w>0.461748</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">kdv_rock02</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19560.3</x>
+          <y>787.646</y>
+          <z>-6117.3</z>
+        </Position>
+        <Rotation>
+          <x>-0</x>
+          <y>0.982278</y>
+          <z>-0</z>
+          <w>0.187431</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.076429</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18715.9</x>
+          <y>842.416</y>
+          <z>-6701.53</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.152857</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18814</x>
+          <y>842.416</y>
+          <z>-6813.11</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.229286</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18952.5</x>
+          <y>842.416</y>
+          <z>-6866.93</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.305714</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19100.1</x>
+          <y>842.416</y>
+          <z>-6850.62</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.382143</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19223.5</x>
+          <y>842.416</y>
+          <z>-6767.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.458571</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19294.9</x>
+          <y>842.416</y>
+          <z>-6637.39</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.535</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19297.8</x>
+          <y>842.416</y>
+          <z>-6488.97</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.611428</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19231.8</x>
+          <y>842.416</y>
+          <z>-6355.96</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.687857</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19111.8</x>
+          <y>842.416</y>
+          <z>-6268.25</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.764285</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18964.9</x>
+          <y>842.416</y>
+          <z>-6246.05</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.840714</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18824.3</x>
+          <y>842.416</y>
+          <z>-6294.27</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.917142</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18722</x>
+          <y>842.416</y>
+          <z>-6401.84</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.993571</Parameter>
+      <Parameter type="String">Circle06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18680.8</x>
+          <y>842.416</y>
+          <z>-6544.72</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">282.267</Parameter>
+      <Parameter type="Single">1236.13</Parameter>
+      <Parameter type="Single">924.667</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6159.36</x>
+          <y>2532.84</y>
+          <z>5672.75</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.375546</y>
+          <z>0</z>
+          <w>0.926804</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix</Parameter>
+      <Parameter type="Single">5.30859</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">88</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17815.6</x>
+          <y>892.635</y>
+          <z>-7390.08</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.142216</y>
+          <z>0</z>
+          <w>0.989836</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_hint_collision" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_all05_a07_sv</Parameter>
+      <Parameter type="Single">1283.48</Parameter>
+      <Parameter type="Single">1559.78</Parameter>
+      <Parameter type="Single">1497.39</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20009.8</x>
+          <y>0</y>
+          <z>-4813.95</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.140924</y>
+          <z>0</z>
+          <w>0.99002</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="cameraeventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">2479</Parameter>
+      <Parameter type="Single">3192.29</Parameter>
+      <Parameter type="Single">2502.38</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">4</Parameter>
+      <Parameter type="Vector3">
+        <x>13160.5</x>
+        <y>902.12</y>
+        <z>-11721.4</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13796.2</x>
+          <y>0</y>
+          <z>-12066.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.537889</y>
+          <z>0</z>
+          <w>0.843016</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">216.328</Parameter>
+      <Parameter type="Single">181.248</Parameter>
+      <Parameter type="Single">222.174</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15208.8</x>
+          <y>926.137</y>
+          <z>-10658.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.225082</Parameter>
+      <Parameter type="String">Line09</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9470.39</x>
+          <y>1254.76</y>
+          <z>-11100.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.450163</Parameter>
+      <Parameter type="String">Line09</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9620.39</x>
+          <y>1254.76</y>
+          <z>-11100.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.675245</Parameter>
+      <Parameter type="String">Line09</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9770.39</x>
+          <y>1254.76</y>
+          <z>-11100.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.900326</Parameter>
+      <Parameter type="String">Line09</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9920.39</x>
+          <y>1254.76</y>
+          <z>-11100.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_hint_collision" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_all05_a22_sv</Parameter>
+      <Parameter type="Single">1992.28</Parameter>
+      <Parameter type="Single">2375.43</Parameter>
+      <Parameter type="Single">1178.94</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7111.1</x>
+          <y>2460.14</y>
+          <z>6773.44</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.357771</y>
+          <z>0</z>
+          <w>0.933809</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="cameraeventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">2479</Parameter>
+      <Parameter type="Single">3192.29</Parameter>
+      <Parameter type="Single">2502.38</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Vector3">
+        <x>17081.4</x>
+        <y>784.632</y>
+        <z>3338.46</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>20038</x>
+          <y>2808.24</y>
+          <z>9278.72</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.240598</y>
+          <z>0</z>
+          <w>0.970625</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="cameraeventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1479</Parameter>
+      <Parameter type="Single">1592.29</Parameter>
+      <Parameter type="Single">1502.38</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Vector3">
+        <x>8209.2</x>
+        <y>1956.37</y>
+        <z>7789.13</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5563.25</x>
+          <y>2000.43</y>
+          <z>5117.81</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.37036</y>
+          <z>0</z>
+          <w>0.928888</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="cameraeventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1479</Parameter>
+      <Parameter type="Single">1592.29</Parameter>
+      <Parameter type="Single">1502.38</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">4</Parameter>
+      <Parameter type="Vector3">
+        <x>-1072.43</x>
+        <y>105.571</y>
+        <z>-11460.9</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-748.808</x>
+          <y>-409.554</y>
+          <z>-11295.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.30605</y>
+          <z>0</z>
+          <w>0.952016</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_goal" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Vector3">
+        <x>-19171.8</x>
+        <y>879.756</y>
+        <z>-6493.65</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>-19099.6</x>
+        <y>890.062</y>
+        <z>-6716.59</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-19072.7</x>
+          <y>839.004</y>
+          <z>-6697.25</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.881121</y>
+          <z>-0</z>
+          <w>-0.47289</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">2</Parameter>
+      <Parameter type="UInt32">38</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14260</x>
+          <y>850.785</y>
+          <z>-8600.98</z>
+        </Position>
+        <Rotation>
+          <x>0.030071</x>
+          <y>0.956208</y>
+          <z>0.239605</z>
+          <w>0.165382</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">2000</Parameter>
+      <Parameter type="Single">2</Parameter>
+      <Parameter type="UInt32">171</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14276</x>
+          <y>-377.989</y>
+          <z>18364.8</z>
+        </Position>
+        <Rotation>
+          <x>0.122958</x>
+          <y>0.943024</y>
+          <z>0.207837</z>
+          <w>-0.228888</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15120.5</x>
+          <y>-377.736</y>
+          <z>19148.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.631481</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>345.107</x>
+          <y>-694.811</y>
+          <z>-6079.24</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.505185</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>310.069</x>
+          <y>-633.583</y>
+          <z>-5946.88</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.378889</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>275.026</x>
+          <y>-572.345</y>
+          <z>-5814.49</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.252592</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>239.982</x>
+          <y>-511.106</y>
+          <z>-5682.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.126296</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>204.938</x>
+          <y>-449.867</y>
+          <z>-5549.72</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18232.6</x>
+          <y>904.038</y>
+          <z>-7770.95</z>
+        </Position>
+        <Rotation>
+          <x>-0.001236</x>
+          <y>0.168649</y>
+          <z>0.000599</z>
+          <w>0.985675</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17248.1</x>
+          <y>904.038</y>
+          <z>-7595.84</z>
+        </Position>
+        <Rotation>
+          <x>-0.001368</x>
+          <y>-0.191342</y>
+          <z>0.000122</z>
+          <w>0.981523</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17248.1</x>
+          <y>1113.73</y>
+          <z>-7595.84</z>
+        </Position>
+        <Rotation>
+          <x>-0.001226</x>
+          <y>0.18574</y>
+          <z>0.00062</z>
+          <w>0.982598</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.233413</Parameter>
+      <Parameter type="String">Line05</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10407.4</x>
+          <y>1410.83</y>
+          <z>7021.51</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.466825</Parameter>
+      <Parameter type="String">Line05</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10557.3</x>
+          <y>1410.83</y>
+          <z>7025.92</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.700238</Parameter>
+      <Parameter type="String">Line05</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10707.2</x>
+          <y>1410.83</y>
+          <z>7030.33</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.933651</Parameter>
+      <Parameter type="String">Line05</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10857.2</x>
+          <y>1410.83</y>
+          <z>7034.74</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.130784</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19335.7</x>
+          <y>394.699</y>
+          <z>-6926.28</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.261569</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19388.4</x>
+          <y>394.699</y>
+          <z>-6785.81</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.392353</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19441.1</x>
+          <y>394.699</y>
+          <z>-6645.34</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.523138</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19493.8</x>
+          <y>394.699</y>
+          <z>-6504.87</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.653922</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19546.4</x>
+          <y>394.699</y>
+          <z>-6364.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.784707</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19599.1</x>
+          <y>394.699</y>
+          <z>-6223.93</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.915491</Parameter>
+      <Parameter type="String">Line06</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19651.8</x>
+          <y>394.699</y>
+          <z>-6083.46</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

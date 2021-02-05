@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">silver</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30178.3</x>
+          <y>5887.73</y>
+          <z>-71510</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.223741</y>
+          <z>0</z>
+          <w>0.974649</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="townsman" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">4</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String">msg_m1206_206</Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="Int32">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28862.4</x>
+          <y>5690.59</y>
+          <z>-69143.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.941207</y>
+          <z>-0</z>
+          <w>0.337831</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28552.4</x>
+          <y>5731.85</y>
+          <z>-68802.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.337184</y>
+          <z>0</z>
+          <w>0.941439</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_cage" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28864.4</x>
+          <y>5690.54</y>
+          <z>-69147.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.353664</y>
+          <z>0</z>
+          <w>0.935373</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">925.609</Parameter>
+      <Parameter type="Single">2057.6</Parameter>
+      <Parameter type="Single">1275.84</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29636.6</x>
+          <y>5480.28</y>
+          <z>-70475.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.294106</y>
+          <z>0</z>
+          <w>0.955773</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29402.2</x>
+          <y>5759.61</y>
+          <z>-70178.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.962455</y>
+          <z>-0</z>
+          <w>0.27144</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28545.6</x>
+          <y>5759.61</y>
+          <z>-70008.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.962455</y>
+          <z>-0</z>
+          <w>0.27144</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29705.3</x>
+          <y>5759.61</y>
+          <z>-69330.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.962455</y>
+          <z>-0</z>
+          <w>0.27144</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28973.3</x>
+          <y>5759.61</y>
+          <z>-70104</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.962455</y>
+          <z>-0</z>
+          <w>0.27144</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">eGunner</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">eGunner_Fix_Rocket</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29556.6</x>
+          <y>5759.61</y>
+          <z>-69756.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.962455</y>
+          <z>-0</z>
+          <w>0.27144</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28457.7</x>
+          <y>5731.85</y>
+          <z>-69443.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.337184</y>
+          <z>0</z>
+          <w>0.941439</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29105.2</x>
+          <y>5731.85</y>
+          <z>-69530.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.337184</y>
+          <z>0</z>
+          <w>0.941439</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">BombBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29218.6</x>
+          <y>5731.85</y>
+          <z>-68917.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.337184</y>
+          <z>0</z>
+          <w>0.941439</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

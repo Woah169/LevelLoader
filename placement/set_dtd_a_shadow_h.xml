@@ -1,0 +1,4954 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="spring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-22823.9</x>
+          <y>0</y>
+          <z>78023.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_obj_statue</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6888.04</x>
+          <y>48.3545</y>
+          <z>12114.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.824142</y>
+          <z>0</z>
+          <w>0.566383</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_obj_statue</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7137.27</x>
+          <y>48.3545</y>
+          <z>12968.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.824142</y>
+          <z>0</z>
+          <w>0.566383</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="vehicle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>39751.9</x>
+          <y>801.265</y>
+          <z>8771.17</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.75184</y>
+          <z>0</z>
+          <w>0.659346</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">100</Parameter>
+      <Parameter type="Single">10</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>36679.7</x>
+          <y>1103.71</y>
+          <z>7611.77</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">100</Parameter>
+      <Parameter type="Single">10</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>36831.2</x>
+          <y>703.067</y>
+          <z>9343.86</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>24426.4</x>
+          <y>90.1562</y>
+          <z>27690.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.108867</y>
+          <z>0</z>
+          <w>0.994056</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>24050.1</x>
+          <y>-52.2337</y>
+          <z>25993.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.108867</y>
+          <z>0</z>
+          <w>0.994056</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19207.6</x>
+          <y>-255.563</y>
+          <z>26560.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18316.6</x>
+          <y>-188.93</y>
+          <z>25061.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7957.7</x>
+          <y>100.512</y>
+          <z>21273.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.939693</y>
+          <z>-0</z>
+          <w>-0.34202</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9075.32</x>
+          <y>111.517</y>
+          <z>22605.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.939693</y>
+          <z>-0</z>
+          <w>-0.34202</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16823.4</x>
+          <y>-183.658</y>
+          <z>16051.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.819152</y>
+          <z>0</z>
+          <w>0.573576</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18457.2</x>
+          <y>-90.5948</y>
+          <z>16646.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.819152</y>
+          <z>0</z>
+          <w>0.573576</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18119.4</x>
+          <y>-27.5634</y>
+          <z>10818.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.608761</y>
+          <z>0</z>
+          <w>0.793353</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19798.8</x>
+          <y>-46.1973</y>
+          <z>10368.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.608761</y>
+          <z>0</z>
+          <w>0.793353</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17600.7</x>
+          <y>24.8082</y>
+          <z>4675.84</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.608761</y>
+          <z>0</z>
+          <w>0.793353</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19280.1</x>
+          <y>-37.3591</y>
+          <z>4225.83</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.608761</y>
+          <z>0</z>
+          <w>0.793353</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10970.2</x>
+          <y>298.622</y>
+          <z>823.586</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.402747</y>
+          <z>0</z>
+          <w>0.915312</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12252.1</x>
+          <y>661.314</y>
+          <z>-351.066</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.402747</y>
+          <z>0</z>
+          <w>0.915312</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7933.25</x>
+          <y>310.976</y>
+          <z>-2792.79</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.480989</y>
+          <z>0</z>
+          <w>0.876727</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9399.66</x>
+          <y>338.112</y>
+          <z>-3727</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.480989</y>
+          <z>0</z>
+          <w>0.876727</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6190.8</x>
+          <y>797.832</y>
+          <z>-5614.34</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.461749</y>
+          <z>0</z>
+          <w>0.887011</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7615.07</x>
+          <y>423.262</y>
+          <z>-6611.63</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.461749</y>
+          <z>0</z>
+          <w>0.887011</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_door" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10022.9</x>
+          <y>-17.1174</y>
+          <z>-16954.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1313.93</Parameter>
+      <Parameter type="Single">1561.64</Parameter>
+      <Parameter type="Single">1593.95</Parameter>
+      <Parameter type="String">goto_b</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10054.2</x>
+          <y>-157.028</y>
+          <z>-18406.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33444.1</x>
+          <y>635.888</y>
+          <z>12893</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.362438</y>
+          <z>0</z>
+          <w>0.932008</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>32269.4</x>
+          <y>910.49</y>
+          <z>11611.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.362438</y>
+          <z>0</z>
+          <w>0.932008</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>31396</x>
+          <y>-9.63631</y>
+          <z>18976.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.722364</y>
+          <z>0</z>
+          <w>0.691513</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29658.9</x>
+          <y>-9.63631</y>
+          <z>19052.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.722364</y>
+          <z>0</z>
+          <w>0.691513</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28643.3</x>
+          <y>152.208</y>
+          <z>24567.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.382683</y>
+          <z>0</z>
+          <w>0.92388</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>27413.9</x>
+          <y>96.2858</y>
+          <z>23338.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.382683</y>
+          <z>0</z>
+          <w>0.92388</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">1715.24</Parameter>
+      <Parameter type="String">pillare01</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>36792</x>
+          <y>668.477</y>
+          <z>8483.59</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.66927</y>
+          <z>0</z>
+          <w>0.743019</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare02</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>32785.6</x>
+          <y>-31.3623</y>
+          <z>12271.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.313342</y>
+          <z>0</z>
+          <w>0.94964</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare03</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30549.5</x>
+          <y>146.845</y>
+          <z>19097.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.008539</y>
+          <z>0</z>
+          <w>0.999964</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare04</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28041.8</x>
+          <y>-171.731</y>
+          <z>24034.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.414864</y>
+          <z>0</z>
+          <w>0.909884</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare05</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>24203.6</x>
+          <y>-253.346</y>
+          <z>26854.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.601965</y>
+          <z>0</z>
+          <w>0.798523</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_breakwall</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12787.1</x>
+          <y>19.0986</y>
+          <z>27917.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.722364</y>
+          <z>0</z>
+          <w>0.691513</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare06</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18705.8</x>
+          <y>-537.95</y>
+          <z>25848.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.511454</y>
+          <z>0</z>
+          <w>0.859311</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare07</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8533.86</x>
+          <y>-792.902</y>
+          <z>21951.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.900617</y>
+          <z>-0</z>
+          <w>0.434614</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare08</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17602.4</x>
+          <y>-683.969</y>
+          <z>16270.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.986255</y>
+          <z>-0</z>
+          <w>0.165232</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare09</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18956.7</x>
+          <y>-304.053</y>
+          <z>10618.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.990294</y>
+          <z>-0</z>
+          <w>-0.138988</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">600</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare10</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18482.5</x>
+          <y>-536.294</y>
+          <z>4445.14</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.99309</y>
+          <z>-0</z>
+          <w>-0.117351</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">600</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare11</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11630.5</x>
+          <y>-649.095</y>
+          <z>207.721</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.920578</y>
+          <z>-0</z>
+          <w>-0.390559</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">600</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare12</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8609.61</x>
+          <y>-634.062</y>
+          <z>-3271.45</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.963681</y>
+          <z>-0</z>
+          <w>-0.267058</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">600</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare13</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6850.75</x>
+          <y>237.78</y>
+          <z>-6114.93</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.951114</y>
+          <z>-0</z>
+          <w>-0.308839</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="impulsesphere" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">800</Parameter>
+      <Parameter type="Single">50000</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>25909.9</x>
+          <y>1530.94</y>
+          <z>16757.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.876727</y>
+          <z>-0</z>
+          <w>0.480989</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_obj_statueboss</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>25963.1</x>
+          <y>271.656</y>
+          <z>17006.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.130526</y>
+          <z>0</z>
+          <w>0.991445</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_hint" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">hint_dtd01_a02_sd</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>36766.3</x>
+          <y>1143.69</y>
+          <z>8482.04</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12775.7</x>
+          <y>-63.4165</y>
+          <z>27020.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.021815</y>
+          <z>0</z>
+          <w>0.999762</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare30</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12719</x>
+          <y>-529.506</y>
+          <z>27896.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.716433</y>
+          <z>0</z>
+          <w>0.697656</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12699.9</x>
+          <y>-247.119</y>
+          <z>28757.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.021815</y>
+          <z>0</z>
+          <w>0.999762</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7295.69</x>
+          <y>166.554</y>
+          <z>-11408.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.939693</y>
+          <z>-0</z>
+          <w>-0.34202</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">600</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">door01</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6734.27</x>
+          <y>-247.021</y>
+          <z>-12100</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.909884</y>
+          <z>-0</z>
+          <w>0.414864</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6178.07</x>
+          <y>254.975</y>
+          <z>-12713.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.939693</y>
+          <z>-0</z>
+          <w>-0.34202</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="player_start2" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">shadow_hover</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>39785.7</x>
+          <y>836.571</y>
+          <z>8779.89</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33897</x>
+          <y>1243.87</y>
+          <z>10807.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.896873</y>
+          <z>-0</z>
+          <w>0.442289</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>34354.8</x>
+          <y>1243.87</y>
+          <z>11942.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.984808</y>
+          <z>-0</z>
+          <w>0.173648</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Single">1715.24</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33785.2</x>
+          <y>668.477</y>
+          <z>10790.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.394916</y>
+          <z>0</z>
+          <w>0.918717</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>32863.1</x>
+          <y>1432.99</y>
+          <z>10768.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.896873</y>
+          <z>-0</z>
+          <w>0.442289</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>31506.2</x>
+          <y>564.735</y>
+          <z>15950.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.999762</y>
+          <z>-0</z>
+          <w>-0.021815</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30261.9</x>
+          <y>708.952</y>
+          <z>16260.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.92388</y>
+          <z>-0</z>
+          <w>0.382683</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="itemboxg" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">4</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>46649.2</x>
+          <y>2099.32</y>
+          <z>10510.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>46072.6</x>
+          <y>2106.79</y>
+          <z>9947.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>46002.3</x>
+          <y>2106.79</y>
+          <z>10143.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>45860.1</x>
+          <y>2106.79</y>
+          <z>10532.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>45930.4</x>
+          <y>2106.79</y>
+          <z>10337.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>45860.1</x>
+          <y>2312.86</y>
+          <z>10532.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>45930.4</x>
+          <y>2312.86</y>
+          <z>10337.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>46002.3</x>
+          <y>2312.86</y>
+          <z>10143.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">WoodBox</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>46072.6</x>
+          <y>2312.86</y>
+          <z>9947.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.159009</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30560.3</x>
+          <y>35.0904</y>
+          <z>19439.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.318018</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30554.6</x>
+          <y>48.5005</y>
+          <z>19290.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.477026</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30548.9</x>
+          <y>61.9106</y>
+          <z>19141.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.636035</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30543.2</x>
+          <y>75.3223</y>
+          <z>18991.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.795044</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30537.4</x>
+          <y>88.7343</y>
+          <z>18842.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.954053</Parameter>
+      <Parameter type="String">Line01</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30531.7</x>
+          <y>102.128</y>
+          <z>18693.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.422618</y>
+          <z>0</z>
+          <w>0.906308</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Single">1715.24</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18952.2</x>
+          <y>102.448</y>
+          <z>25481.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.078646</y>
+          <z>0</z>
+          <w>0.996903</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTitan</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTitan_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13809</x>
+          <y>104.906</y>
+          <z>25359.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.19509</y>
+          <z>0</z>
+          <w>0.980785</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTitan</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTitan_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>1570.94</x>
+          <y>1284.01</y>
+          <z>24027.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.691513</y>
+          <z>0</z>
+          <w>0.722364</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">600</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare14</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5453.04</x>
+          <y>-62.4126</y>
+          <z>-9668.53</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.998381</y>
+          <z>-0</z>
+          <w>0.05688</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>4628.28</x>
+          <y>535.798</y>
+          <z>-9745.32</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.75184</y>
+          <z>0</z>
+          <w>0.659346</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6352.11</x>
+          <y>845.971</y>
+          <z>-9518.37</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.75184</y>
+          <z>0</z>
+          <w>0.659346</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9982.61</x>
+          <y>2021.14</y>
+          <z>26898</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.659346</y>
+          <z>0</z>
+          <w>0.75184</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>7645.96</x>
+          <y>738.778</y>
+          <z>25504.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.608761</y>
+          <z>0</z>
+          <w>0.793353</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare15</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6793.04</x>
+          <y>272.688</y>
+          <z>25714.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.990294</y>
+          <z>-0</z>
+          <w>-0.138988</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5966.5</x>
+          <y>555.075</y>
+          <z>25954.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.608761</y>
+          <z>0</z>
+          <w>0.793353</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>13241.1</x>
+          <y>-13.6129</y>
+          <z>20396.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.965926</y>
+          <z>-0</z>
+          <w>-0.258819</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eventbox" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">1089.41</Parameter>
+      <Parameter type="Single">1379.14</Parameter>
+      <Parameter type="Single">3015.24</Parameter>
+      <Parameter type="String">pillare17</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12821.4</x>
+          <y>-918.032</y>
+          <z>19658.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.859311</y>
+          <z>0</z>
+          <w>0.511454</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="dtd_pillar_eagle" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">3000</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>12371.7</x>
+          <y>-24.6184</y>
+          <z>18890.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.965926</y>
+          <z>-0</z>
+          <w>-0.258819</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15170</x>
+          <y>763</y>
+          <z>19725.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19718.2</x>
+          <y>397.994</y>
+          <z>13206.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>4902.03</x>
+          <y>1854.99</y>
+          <z>-8160.33</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.152124</y>
+          <z>0</z>
+          <w>0.988361</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5225.92</x>
+          <y>1854.99</y>
+          <z>-7486.52</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.32144</y>
+          <z>0</z>
+          <w>0.94693</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>6331.42</x>
+          <y>1854.99</y>
+          <z>-7258.65</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>5938.94</x>
+          <y>1854.99</y>
+          <z>-8123.22</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cGazer</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cGazer_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8205.95</x>
+          <y>-59.6827</y>
+          <z>-14327.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.130526</y>
+          <z>0</z>
+          <w>0.991445</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cGazer</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cGazer_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9292.9</x>
+          <y>-59.6827</y>
+          <z>-13943.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.258819</y>
+          <z>0</z>
+          <w>0.965926</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cGazer</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cGazer_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10161.6</x>
+          <y>-59.6827</y>
+          <z>-13668.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.402747</y>
+          <z>0</z>
+          <w>0.915312</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cGazer</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cGazer_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10951.6</x>
+          <y>-59.6827</y>
+          <z>-13612.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.402747</y>
+          <z>0</z>
+          <w>0.915312</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>32403.2</x>
+          <y>526.024</y>
+          <z>17139.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.999762</y>
+          <z>-0</z>
+          <w>-0.021815</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>30178.1</x>
+          <y>526.024</y>
+          <z>17327.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.999762</y>
+          <z>-0</z>
+          <w>-0.021815</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28469.7</x>
+          <y>808.222</y>
+          <z>22522.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.980785</y>
+          <z>-0</z>
+          <w>0.19509</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cGolem</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cGolem_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9899.11</x>
+          <y>-59.6827</y>
+          <z>-15718.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.5</x>
+          <y>1278.16</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">guillotine</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-18078.4</x>
+          <y>1235.85</y>
+          <z>-34598.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">guillotine</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17088.5</x>
+          <y>1235.85</y>
+          <z>-34598.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">guillotine</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16121.1</x>
+          <y>1235.85</y>
+          <z>-34598.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16600.9</x>
+          <y>1278.16</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16600.9</x>
+          <y>1392.53</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.5</x>
+          <y>1392.53</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16600.9</x>
+          <y>1553.72</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.5</x>
+          <y>1553.72</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16600.9</x>
+          <y>1707.53</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.5</x>
+          <y>1707.53</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16600.9</x>
+          <y>1868.13</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.5</x>
+          <y>1868.13</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16600.9</x>
+          <y>2022.21</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.5</x>
+          <y>2022.21</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-16601.3</x>
+          <y>2149.42</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_guillotine" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-17573.9</x>
+          <y>2149.42</y>
+          <z>-34598.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33411.9</x>
+          <y>1393.23</y>
+          <z>11293.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.896873</y>
+          <z>-0</z>
+          <w>0.442289</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33877.7</x>
+          <y>1393.23</y>
+          <z>11596.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.896873</y>
+          <z>-0</z>
+          <w>0.442289</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.794971</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>39555.5</x>
+          <y>829.691</y>
+          <z>8745.86</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.529981</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>39456.5</x>
+          <y>829.691</y>
+          <z>8731.33</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="ring" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Single">0.26499</Parameter>
+      <Parameter type="String"></Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>39357.5</x>
+          <y>829.691</y>
+          <z>8716.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>31033.5</x>
+          <y>526.024</y>
+          <z>17127.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.999762</y>
+          <z>-0</z>
+          <w>-0.021815</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>28572.7</x>
+          <y>808.222</y>
+          <z>23071.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.980785</y>
+          <z>-0</z>
+          <w>0.19509</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29061.9</x>
+          <y>808.222</y>
+          <z>23020</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.980785</y>
+          <z>-0</z>
+          <w>0.19509</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29147</x>
+          <y>808.222</y>
+          <z>23551.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.980785</y>
+          <z>-0</z>
+          <w>0.19509</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>29815.6</x>
+          <y>808.222</y>
+          <z>23274.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.980785</y>
+          <z>-0</z>
+          <w>0.19509</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10114.5</x>
+          <y>2021.14</y>
+          <z>27401</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.659346</y>
+          <z>0</z>
+          <w>0.75184</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10114.9</x>
+          <y>2021.14</y>
+          <z>27947.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.659346</y>
+          <z>0</z>
+          <w>0.75184</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10005.8</x>
+          <y>2021.14</y>
+          <z>28535.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.659346</y>
+          <z>0</z>
+          <w>0.75184</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10356.7</x>
+          <y>2021.14</y>
+          <z>28926.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.659346</y>
+          <z>0</z>
+          <w>0.75184</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_pillarC</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17591.2</x>
+          <y>46.8147</y>
+          <z>26507.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.19509</y>
+          <z>0</z>
+          <w>0.980785</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_pillarC</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16825.5</x>
+          <y>46.8147</y>
+          <z>26841.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.19509</y>
+          <z>0</z>
+          <w>0.980785</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_pillarC</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16036.7</x>
+          <y>46.8147</y>
+          <z>27175.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.19509</y>
+          <z>0</z>
+          <w>0.980785</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cBiter</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cBiter_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9235.58</x>
+          <y>579.378</y>
+          <z>20002.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.19509</y>
+          <z>0</z>
+          <w>0.980785</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14940.2</x>
+          <y>763</y>
+          <z>19537.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14722.7</x>
+          <y>763</y>
+          <z>19235</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14541.9</x>
+          <y>763</y>
+          <z>18848.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>14349.3</x>
+          <y>763</y>
+          <z>18534.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.766044</y>
+          <z>0</z>
+          <w>0.642788</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_pillarC</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17418.4</x>
+          <y>5.21674</y>
+          <z>14757.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_pillarC</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18009.7</x>
+          <y>5.21674</y>
+          <z>14943.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_pillarC</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18654.6</x>
+          <y>5.21674</y>
+          <z>15161</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.173648</y>
+          <z>0</z>
+          <w>0.984808</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19430.2</x>
+          <y>397.994</y>
+          <z>12894.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18908</x>
+          <y>397.994</y>
+          <z>12986.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18529.8</x>
+          <y>397.994</y>
+          <z>13248.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18500.4</x>
+          <y>397.994</y>
+          <z>12087.2</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>18827.4</x>
+          <y>397.994</y>
+          <z>11763.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19325.6</x>
+          <y>397.994</y>
+          <z>11581.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>19663.4</x>
+          <y>397.994</y>
+          <z>11839.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.043619</y>
+          <z>0</z>
+          <w>0.999048</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16701.2</x>
+          <y>397.994</y>
+          <z>3284.26</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16879.5</x>
+          <y>397.994</y>
+          <z>2860.25</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17270.2</x>
+          <y>397.994</y>
+          <z>2501.64</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17680.8</x>
+          <y>397.994</y>
+          <z>2610.13</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_obj_statue2</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15019</x>
+          <y>64.9895</y>
+          <z>386.861</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.382683</y>
+          <z>0</z>
+          <w>0.92388</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_obj_statue2</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15755.5</x>
+          <y>64.9895</y>
+          <z>875.554</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.382683</y>
+          <z>0</z>
+          <w>0.92388</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="objectphysics" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">dtd_obj_statue2</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>16491.1</x>
+          <y>64.9895</y>
+          <z>1447.52</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.382683</y>
+          <z>0</z>
+          <w>0.92388</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9823.22</x>
+          <y>953.551</y>
+          <z>-1462.47</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10213.9</x>
+          <y>953.551</y>
+          <z>-1821.09</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10624.5</x>
+          <y>953.551</y>
+          <z>-1712.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9644.93</x>
+          <y>953.551</y>
+          <z>-1038.47</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9276.34</x>
+          <y>953.551</y>
+          <z>-2192.85</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9667.06</x>
+          <y>953.551</y>
+          <z>-2551.47</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9098.05</x>
+          <y>953.551</y>
+          <z>-1768.85</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemy" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Normal</Parameter>
+      <Parameter type="Single">0</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>10077.6</x>
+          <y>953.551</y>
+          <z>-2442.98</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.237686</y>
+          <z>0</z>
+          <w>0.971342</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>8871.13</x>
+          <y>338.836</y>
+          <z>-16024.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTaker</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="String">cTaker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11164.7</x>
+          <y>338.836</y>
+          <z>-16024.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="enemyextra" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">cTricker</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="String">cTricker_Fix</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">True</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+      <Parameter type="UInt32">4294967295</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>9992.36</x>
+          <y>622.749</y>
+          <z>-16127.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

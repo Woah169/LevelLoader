@@ -1,0 +1,630 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="eggman_train" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">Line_path09</Parameter>
+      <Parameter type="Single">2500</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">2600</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Int32">20</Parameter>
+      <Parameter type="Int32">20</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">30</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Single">0</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Vector3">
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Single">200</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>38567.6</x>
+          <y>5918.76</y>
+          <z>-41144.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="eggman_train" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">Line_path10</Parameter>
+      <Parameter type="Single">3000.1</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">2600</Parameter>
+      <Parameter type="Int32">0</Parameter>
+      <Parameter type="Single">30000</Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">100</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Int32">3</Parameter>
+      <Parameter type="Single">30</Parameter>
+      <Parameter type="Single">4000</Parameter>
+      <Parameter type="Single">0.3</Parameter>
+      <Parameter type="Single">-10</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+      <Parameter type="Vector3">
+        <x>-23190.4</x>
+        <y>3744.44</y>
+        <z>61750.4</z>
+      </Parameter>
+      <Parameter type="Single">3</Parameter>
+      <Parameter type="Single">1500</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>15675.8</x>
+          <y>3478.54</y>
+          <z>-43271.7</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>48390.2</x>
+          <y>5408.99</y>
+          <z>-44297.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>43922.3</x>
+          <y>6695.99</y>
+          <z>-37922.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-25026.5</x>
+          <y>0</y>
+          <z>60519.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-25896.2</x>
+          <y>2926.11</y>
+          <z>61023.8</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>41704.1</x>
+          <y>4764.05</y>
+          <z>-41330.3</z>
+        </Position>
+        <Rotation>
+          <x>-0.584487</x>
+          <y>-0.397963</y>
+          <z>-0.397963</z>
+          <w>0.584487</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="freight_train" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">Line_path12</Parameter>
+      <Parameter type="Single">1500</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Int32">7</Parameter>
+      <Parameter type="Single">2600</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">20400</Parameter>
+      <Parameter type="String">0000</Parameter>
+      <Parameter type="String">1000</Parameter>
+      <Parameter type="String">0000</Parameter>
+      <Parameter type="String">1000</Parameter>
+      <Parameter type="String">0001</Parameter>
+      <Parameter type="String">0000</Parameter>
+      <Parameter type="String">1000</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>23376.6</x>
+          <y>5658.73</y>
+          <z>-43580.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="freight_train" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">Line_path13</Parameter>
+      <Parameter type="Single">1500</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Int32">4</Parameter>
+      <Parameter type="Single">2600</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">10400</Parameter>
+      <Parameter type="String">0000</Parameter>
+      <Parameter type="String">0010</Parameter>
+      <Parameter type="String">0011</Parameter>
+      <Parameter type="String">0110</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>17558</x>
+          <y>5756.6</y>
+          <z>-30393.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="freight_train" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="String">Line_path11</Parameter>
+      <Parameter type="Single">1200</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Int32">6</Parameter>
+      <Parameter type="Single">2600</Parameter>
+      <Parameter type="Int32">1</Parameter>
+      <Parameter type="Single">15400</Parameter>
+      <Parameter type="String">0000</Parameter>
+      <Parameter type="String">1100</Parameter>
+      <Parameter type="String">1011</Parameter>
+      <Parameter type="String">0101</Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="String"></Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Single">1000</Parameter>
+      <Parameter type="Boolean">False</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>11770</x>
+          <y>5754.85</y>
+          <z>-46894.1</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-7593.03</x>
+          <y>3976.15</y>
+          <z>-35455.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.446122</y>
+          <z>0</z>
+          <w>0.894972</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_object_event" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">8000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="String">train_camera01</Parameter>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-25333.7</x>
+          <y>1153.42</y>
+          <z>61042.3</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.21644</y>
+          <z>0</z>
+          <w>0.976296</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_object_event" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">8000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="String">train_bust01</Parameter>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-22745.1</x>
+          <y>1153.42</y>
+          <z>66445.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.21644</y>
+          <z>0</z>
+          <w>0.976296</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_object_event" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">8000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="String">train_horn01</Parameter>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-26672</x>
+          <y>1153.42</y>
+          <z>58854.6</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.21644</y>
+          <z>0</z>
+          <w>0.976296</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="common_object_event" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Single">500</Parameter>
+      <Parameter type="Single">8000</Parameter>
+      <Parameter type="Single">5000</Parameter>
+      <Parameter type="String">train_horn01</Parameter>
+      <Parameter type="Int32">2</Parameter>
+      <Parameter type="Int32">1</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-28989.4</x>
+          <y>1153.42</y>
+          <z>53769</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0.21644</y>
+          <z>0</z>
+          <w>0.976296</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-23190.4</x>
+          <y>3744.44</y>
+          <z>61750.4</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>33145.9</x>
+          <y>4764.05</y>
+          <z>-39286.3</z>
+        </Position>
+        <Rotation>
+          <x>-0.584487</x>
+          <y>-0.397963</y>
+          <z>-0.397963</z>
+          <w>0.584487</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>781.376</x>
+          <y>2296.48</y>
+          <z>-37072.5</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>-0.707107</y>
+          <z>0</z>
+          <w>0.707107</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+  <Object type="positionSample" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Int32">7632239</Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>4464.25</x>
+          <y>6939.29</y>
+          <z>-38427.9</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetData>
+  <Object type="csctornadochase" id="0">
+    <CustomData />
+    <Parameters>
+      <Parameter type="Vector3">
+        <x>-5000</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+      <Parameter type="Single">2000</Parameter>
+      <Parameter type="Single">0.1</Parameter>
+      <Parameter type="Single">1</Parameter>
+      <Parameter type="Vector3">
+        <x>1</x>
+        <y>0.8</y>
+        <z>1</z>
+      </Parameter>
+      <Parameter type="Vector3">
+        <x>40000</x>
+        <y>0</y>
+        <z>0</z>
+      </Parameter>
+    </Parameters>
+    <Transforms>
+      <Transform>
+        <Position>
+          <x>-199500</x>
+          <y>11100</y>
+          <z>0</z>
+        </Position>
+        <Rotation>
+          <x>0</x>
+          <y>0</y>
+          <z>0</z>
+          <w>1</w>
+        </Rotation>
+        <Scale>
+          <x>1</x>
+          <y>1</y>
+          <z>1</z>
+        </Scale>
+      </Transform>
+    </Transforms>
+  </Object>
+</SetData>
