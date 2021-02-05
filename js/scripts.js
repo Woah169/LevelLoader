@@ -79,7 +79,7 @@ function loadScene(LevelID){
 			let li = document.createElement('li');
 			colList.appendChild(li);
 
-			li.innerHTML += colList.name;
+			li.innerHTML += groupMesh.name;
 
 			
 		}
