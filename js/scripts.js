@@ -78,9 +78,20 @@ function loadScene(LevelID){
 			collisionGroups.push(groupMesh);
 			
 			let li = document.createElement('button');
+			li.setAttribute("t","t")
 			li.className = "colButton";
 			li.innerHTML += groupMesh.name;
-			li.onclick = function() {toggleVisability(li.innerHTML)};
+			li.onclick = function() {
+				toggleVisability(li.innerHTML);
+				if(li.getAttribute("t") == "f"){
+					li.setAttribute("t","t")
+					li.style.backgroundColor = "white"
+				}
+				else{
+					li.setAttribute("t","f")
+					li.style.backgroundColor = "grey"
+				}
+			};
 			colList.appendChild(li);
 
 			
