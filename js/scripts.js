@@ -66,10 +66,14 @@ function loadScene(LevelID){
 		object.position.set(0,0,0);
 		col = object; 
 		scene.add(object);
+
+		for(int i = 0; i < col.children.length; i++){
+			var groupMesh  = col.children[i]; 
+			console.log(groupMesh.name);
+		}
+
 	});
 
-	//for(int i = 0; i < col.children)
-	console.log(col.children);
 }
 
 
