@@ -64,7 +64,8 @@ function loadScene(LevelID){
 	objLoader.load('stage/' + LevelID + "/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
 		object.position.set(0,0,0);
-		col = scene.add(object);
+		col = object; 
+		scene.add(object);
 	});
 
 	//for(int i = 0; i < col.children)
