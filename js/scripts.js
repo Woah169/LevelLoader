@@ -60,11 +60,16 @@ function loadScene(LevelID){
 
 	var objLoader = new THREE.OBJLoader();
 	
+	var col;
+
 	objLoader.load('stage/' + LevelID + "/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
 		object.position.set(0,0,0);
-		scene.add(object);
+		col = scene.add(object);
 	});
+
+	//for(int i = 0; i < col.children)
+	console.log(col.children);
 }
 
 
