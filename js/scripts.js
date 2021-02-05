@@ -3,7 +3,7 @@ var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeig
 var col;
 var renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth/1.25, window.innerHeight/1.25 );
-document.body.appendChild( renderer.domElement );
+document.getElementById("CV").appendChild( renderer.domElement );
 
 camera.position.z = 5;
 
@@ -60,6 +60,7 @@ function loadScene(LevelID){
 
 	var objLoader = new THREE.OBJLoader();
 	
+	var collisionGroups = [];
 
 	objLoader.load('stage/' + LevelID + "/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
@@ -67,9 +68,20 @@ function loadScene(LevelID){
 		col = object; 
 		scene.add(object);
 
+		var colList = document.getElementById("collisionList");
+		colList.innerHTML = '';
+
 		for (i = 0; i < col.children.length; i++){
+			
 			var groupMesh  = col.children[i]; 
-			console.log(groupMesh.name);
+			collisionGroups.push(groupMesh);
+			
+			let li = document.createElement('li');
+			colList.appendChild(li);
+
+			li.innerHTML += colList.name;
+
+			
 		}
 
 	});
