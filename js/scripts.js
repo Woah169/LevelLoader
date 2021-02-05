@@ -1,6 +1,7 @@
 var scene = new THREE.Scene();
 var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
 var col;
+var collisionGroups;
 var renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth/1.25, window.innerHeight/1.25 );
 document.getElementById("CV").appendChild( renderer.domElement );
@@ -60,7 +61,7 @@ function loadScene(LevelID){
 
 	var objLoader = new THREE.OBJLoader();
 	
-	var collisionGroups = [];
+	collisionGroups = [];
 
 	objLoader.load('stage/' + LevelID + "/collision.obj", function(object){
 		object.scale.set(0.001,0.001,0.001)
@@ -76,7 +77,8 @@ function loadScene(LevelID){
 			var groupMesh  = col.children[i]; 
 			collisionGroups.push(groupMesh);
 			
-			let li = document.createElement('li');
+			let li = document.createElement('button');
+			li.className = "colButton";
 			colList.appendChild(li);
 
 			li.innerHTML += groupMesh.name;
@@ -103,6 +105,15 @@ function clearScene(){
 	scene.add(keyLight);
 	scene.add(fillLight);
 	scene.add(backLight);
+}
+
+//Toggle Mesh Visability
+function toggleVisability(MeshName){
+	for(i = 0; i < collisionGroups.length; i++){
+		if(MeshName == collisionGroups[i].name){
+			collisionGroups[i].visible = !collisionGroups[i].visible;
+		}
+	}
 }
 
 clearScene()

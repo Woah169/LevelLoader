@@ -1,23 +1,21 @@
 <html>
 	<head>
 		<title>Net Level Viewer</title>
-		<style>
-			body { margin: auto; background-color: rgb(43, 43, 43);}
-			canvas { width: 100%; height: 100%; border-width: 3px; border-style: solid; float: left;}
-		</style>
 	</head>
 	<body>
 		
-		<div id = "CV" >
-			<ul id="collisionList">
-
+		<div id = "CV" style="display: flex; flex-direction: row-reverse;" >
+			<ul id="collisionList" style="display: flex; flex-direction: column; width: 100%;">
+				<button class = "colButton">1</button>
+				<button class = "colButton">2</button>
+				<button class = "colButton">3</button>
 			</ul>
 		</div>
 		
 
 		
 
-		<div id="Menu" style="float: left;">
+		<div id="Menu">
 			<h1>Stage Selection</h1>
 
 			<select name="Stages" id="Stages">
@@ -109,5 +107,12 @@
 			box-sizing: border-box;
 			margin: auto;
 		}
+
+		.colButton{
+			width: 90%;
+		}
+
+		body { margin: auto; background-color: rgb(43, 43, 43);}
+		canvas { width: 100%; height: 100%; border-width: 3px; border-style: solid;}
 	</style>
 </html>
