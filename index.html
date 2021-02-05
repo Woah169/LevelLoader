@@ -5,11 +5,11 @@
 	<body>
 		
 		<div id = "CV" style="display: flex; flex-direction: row-reverse;" >
-			<ul id="collisionList" style="display: flex; flex-direction: column; width: 100%;">
-				<button class = "colButton">1</button>
-				<button class = "colButton">2</button>
-				<button class = "colButton">3</button>
-			</ul>
+			<div style="display: flex; flex-direction: column; width: 100%;">
+				<h1 style="margin:  0 auto; padding: 5px;">Collision Types</h1>
+				<div id="collisionList" style="display: flex; flex-direction: column; width: 100%;">
+				</div>
+			</div>
 		</div>
 		
 
@@ -94,8 +94,13 @@
 
 	
 	<style>
+
+		html{
+			font-family: Arial, Helvetica, sans-serif;
+		}
 		
 		h1{
+			color: white;
 			margin: 10px 0px 5px 0px;
 		}
 
@@ -110,6 +115,7 @@
 
 		.colButton{
 			width: 90%;
+			margin: auto;
 		}
 
 		body { margin: auto; background-color: rgb(43, 43, 43);}
