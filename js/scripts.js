@@ -125,16 +125,20 @@ function setColour(Mesh){
 	}
 }
 
-var xhr = new XMLHttpRequest();
 
 //Load Placement
 function loadPlacement(PlacementID){
-	xhr.open('GET', "placement/"+PlacementID, true);
-	xhr.timeout = 2000;
+	
+	let xmlContent = '';
 
-	xhr.onload = function () {
-		var xmlDoc = this.responseXML;
-	};
+	fetch("placement/"+PlacementID).then((response)=>{
+		response.text().then((xml)=>{
+			let parser = new DOMParser();
+			let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
+			console.log(xmlDOM);
+		})
+	})
+
 }
 
 //Clear 
