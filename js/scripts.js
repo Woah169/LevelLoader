@@ -79,6 +79,8 @@ function loadScene(LevelID){
 			var groupMesh  = col.children[i]; 
 			collisionGroups.push(groupMesh);
 			
+			setColour(groupMesh);
+
 			let li = document.createElement('button');
 			li.setAttribute("t","t")
 			li.className = "colButton";
@@ -106,6 +108,20 @@ function loadScene(LevelID){
 
 }
 
+//Set Collision Colour
+function setColour(Mesh){
+	
+	switch (Mesh.name){
+
+		case "00100200":
+			Mesh.material.color.setRGB(1,0,0);
+			break;
+		
+
+		default:
+			break;
+	}
+}
 
 parser = new DOMParser();
 
