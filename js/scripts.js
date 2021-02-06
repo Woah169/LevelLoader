@@ -133,11 +133,13 @@ serializer = new XMLSerializer();
 function loadPlacement(PlacementID){
 	xmlDoc = parser.parseFromString(serializer.serializeToString("placement/"+PlacementID),"text/xml");
 	
-	var b = xmlDoc.childNodes;
+	var xhr = new XMLHttpRequest();
+	xhr.open('GET', "placement/"+PlacementID, true);
+	xhr.timeout = 2000;
 
-	for(i = 0; i < b.length; i++){
-		console.log(b[i].nodeValue);
-	}
+	xhr.onload = function () {
+		var xmlDoc = this.responseXML;
+	};
 
 }
 
