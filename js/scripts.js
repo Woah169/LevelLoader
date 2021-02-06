@@ -160,7 +160,7 @@ function loadPlacement(PlacementID){
 							Node.children[2].children[0].children[1].children[1].innerHTML,
 							Node.children[2].children[0].children[1].children[2].innerHTML,
 							Node.children[2].children[0].children[1].children[3].innerHTML,
-						));
+						), "XYZ");
 						
 						scene.add( cube );
 
