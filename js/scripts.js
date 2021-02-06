@@ -134,7 +134,7 @@ function loadPlacement(PlacementID){
 	fetch("placement/"+PlacementID).then((response)=>{
 		response.text().then((xml)=>{
 			let parser = new DOMParser();
-			let xmlDOM = parser.parseFromString(xmlContent, 'application/xml');
+			let xmlDOM = parser.parseFromString(xml, 'application/xml');
 			console.log(xmlDOM);
 		})
 	})
