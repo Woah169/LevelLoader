@@ -141,6 +141,12 @@ function loadPlacement(PlacementID){
 
 }
 
+//Show XML
+function showXML(PlacementID){
+	var win = window.open("placement/"+PlacementID, '_blank');
+	win.focus();
+}
+
 //Clear 
 function clearScene(){
 	scene.children = [];
