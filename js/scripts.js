@@ -164,7 +164,7 @@ function loadPlacement(PlacementID){
 
 						Rotation.normalize();
 
-						cube.rotation = new THREE.Euler().setFromQuaternion(Rotation);
+						cube.rotation.setFromQuaternion(Rotation);
 						
 						scene.add( cube );
 
