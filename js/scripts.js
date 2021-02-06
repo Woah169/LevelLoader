@@ -147,6 +147,8 @@ function loadPlacement(PlacementID){
 							Node.children[1].children[0].innerHTML * 0.001);
 
 						var material = new THREE.MeshBasicMaterial({color: 0x00ff00});
+						material.transparent = true;
+						material.opacity = 0.5;
 						var cube = new THREE.Mesh( geometry, material );
 
 						cube.position.set(
