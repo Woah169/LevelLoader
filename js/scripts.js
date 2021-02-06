@@ -130,7 +130,7 @@ parser = new DOMParser();
 
 //Load Placement
 function loadPlacement(PlacementID){
-	xmlDoc = parser.parserFromString("placement/"+PlacementID,"text/xml");
+	xmlDoc = parser.parseFromString("placement/"+PlacementID,"text/xml");
 	
 	var b = xmlDoc.childNodes;
 
