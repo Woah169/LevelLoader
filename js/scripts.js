@@ -57,7 +57,7 @@ function loadScene(LevelID){
 
 	clearScene();
 
-	var geometry = new THREE.BoxGeometry(0.1,0.1,0.1);
+	var geometry = new THREE.BoxGeometry(0.5,0.5,0.5);
 	var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
 	var cube = new THREE.Mesh( geometry, material );
 	scene.add( cube );
@@ -136,7 +136,39 @@ function loadPlacement(PlacementID){
 			let parser = new DOMParser();
 			xmlDOM = parser.parseFromString(xml, 'application/xml').children[0];
 			for(i = 0; i < xmlDOM.childElementCount; i++){
-				console.log(xmlDOM.children[i].getAttribute("type"));
+				var Node = xmlDOM.children[i];
+				switch (Node.getAttribute("type")){
+					
+					case "eventbox":
+
+						var geometry = new THREE.BoxGeometry(
+							Node.children[1].children[1].innerHTML * 0.001,
+							Node.children[1].children[2].innerHTML * 0.001,
+							Node.children[1].children[0].innerHTML * 0.001);
+
+						var material = new THREE.MeshBasicMaterial({color: 0x00ff00});
+						var cube = new THREE.Mesh( geometry, material );
+
+						cube.position.set(
+							Node.children[2].children[0].children[0].children[0].innerHTML * -1 * 0.001,
+							(Node.children[2].children[0].children[0].children[1].innerHTML + (Node.children[1].children[2].innerHTML / 2)) * 0.001,
+							Node.children[2].children[0].children[0].children[2].innerHTML * 0.001
+						);
+
+						cube.rotation = new THREE.Quaternion(
+							-Node.children[2].children[0].children[1].children[0].innerHTML,
+							Node.children[2].children[0].children[1].children[1].innerHTML,
+							Node.children[2].children[0].children[1].children[2].innerHTML,
+							-Node.children[2].children[0].children[1].children[3].innerHTML,
+						);
+						
+						scene.add( cube );
+
+						break;
+					
+					default:
+						break;
+				}
 			}
 			
 		})
