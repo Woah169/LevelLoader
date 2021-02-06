@@ -150,17 +150,17 @@ function loadPlacement(PlacementID){
 						var cube = new THREE.Mesh( geometry, material );
 
 						cube.position.set(
-							Node.children[2].children[0].children[0].children[0].innerHTML * -1 * 0.001,
-							(Node.children[2].children[0].children[0].children[1].innerHTML + (Node.children[1].children[2].innerHTML / 2)) * 0.001,
+							Node.children[2].children[0].children[0].children[0].innerHTML * 0.001,
+							(Node.children[2].children[0].children[0].children[1].innerHTML * 0.001) + (Node.children[1].children[2].innerHTML * 0.0006),
 							Node.children[2].children[0].children[0].children[2].innerHTML * 0.001
 						);
 
-						cube.rotation = new THREE.Quaternion(
-							-Node.children[2].children[0].children[1].children[0].innerHTML,
+						cube.rotation.setFromQuaternion(new THREE.Quaternion(
+							Node.children[2].children[0].children[1].children[0].innerHTML,
 							Node.children[2].children[0].children[1].children[1].innerHTML,
 							Node.children[2].children[0].children[1].children[2].innerHTML,
-							-Node.children[2].children[0].children[1].children[3].innerHTML,
-						);
+							Node.children[2].children[0].children[1].children[3].innerHTML,
+						));
 						
 						scene.add( cube );
 
