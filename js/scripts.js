@@ -1,7 +1,6 @@
 var scene = new THREE.Scene();
 var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
 var col;
-var xmlDoc;
 var collisionGroups;
 var renderer = new THREE.WebGLRenderer();
 renderer.setSize( window.innerWidth/1.25, window.innerHeight/1.25 );
@@ -126,21 +125,16 @@ function setColour(Mesh){
 	}
 }
 
-parser = new DOMParser();
-serializer = new XMLSerializer();
+var xhr = new XMLHttpRequest();
 
 //Load Placement
 function loadPlacement(PlacementID){
-	xmlDoc = parser.parseFromString(serializer.serializeToString("placement/"+PlacementID),"text/xml");
-	
-	var xhr = new XMLHttpRequest();
 	xhr.open('GET', "placement/"+PlacementID, true);
 	xhr.timeout = 2000;
 
 	xhr.onload = function () {
 		var xmlDoc = this.responseXML;
 	};
-
 }
 
 //Clear 
