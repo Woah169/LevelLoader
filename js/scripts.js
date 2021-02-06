@@ -126,7 +126,6 @@ function setColour(Mesh){
 	}
 }
 
-
 //Load Placement
 function loadPlacement(PlacementID){
 	
@@ -136,6 +135,9 @@ function loadPlacement(PlacementID){
 		response.text().then((xml)=>{
 			let parser = new DOMParser();
 			xmlDOM = parser.parseFromString(xml, 'application/xml').children[0];
+			for(i = 0; i < xmlDOM.childElementCount; i++){
+				console.log(xmlDOM.children[i].getAttribute("type"));
+			}
 			
 		})
 	})
