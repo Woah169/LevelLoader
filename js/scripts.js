@@ -127,10 +127,11 @@ function setColour(Mesh){
 }
 
 parser = new DOMParser();
+serializer = new XMLSerializer();
 
 //Load Placement
 function loadPlacement(PlacementID){
-	xmlDoc = parser.parseFromString("placement/"+PlacementID,"text/xml");
+	xmlDoc = parser.parseFromString(serializer.serializeToString("placement/"+PlacementID),"text/xml");
 	
 	var b = xmlDoc.childNodes;
 
