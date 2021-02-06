@@ -155,11 +155,14 @@ function loadPlacement(PlacementID){
 							Node.children[2].children[0].children[0].children[2].innerHTML * 0.001
 						);
 
-						cube.quaternion.x = Node.children[2].children[0].children[1].children[0].innerHTML;
-						cube.quaternion.y = Node.children[2].children[0].children[1].children[1].innerHTML;
-						cube.quaternion.z = Node.children[2].children[0].children[1].children[2].innerHTML;
-						cube.quaternion.w = Node.children[2].children[0].children[1].children[3].innerHTML;
+						var Rotation = new THREE.Quaternion(
+							Node.children[2].children[0].children[1].children[0].innerHTML,
+							Node.children[2].children[0].children[1].children[1].innerHTML,
+							Node.children[2].children[0].children[1].children[2].innerHTML,
+							Node.children[2].children[0].children[1].children[3].innerHTML,
+						);
 
+						cube.Rotation = new THREE.Euler().setFromQuaternion(a)
 						
 						scene.add( cube );
 
